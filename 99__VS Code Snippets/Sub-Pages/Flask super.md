@@ -1,0 +1,5 @@
+`fsuper`
+
+```html
+{{ self.supper() }}
+```

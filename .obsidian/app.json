@@ -1,0 +1,25 @@
+{
+  "spellcheck": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "spellcheckDictionary": [
+    "iterable",
+    "creational",
+    "instantiation",
+    "Booleans",
+    "conda",
+    "pyenv",
+    "virtualenv",
+    "venv",
+    "Templating",
+    "templating",
+    "substrings",
+    "Elif",
+    "recurse"
+  ],
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false,
+  "attachmentFolderPath": "_Admin/Attachments",
+  "strictLineBreaks": false,
+  "promptDelete": false
+}

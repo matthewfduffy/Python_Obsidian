@@ -1,0 +1,1005 @@
+
+:root
+{
+    /* color pallete */
+    /* Theme Colors */
+    
+    --dark0:  #2e3440;
+    --dark1:  #3b4252;
+    --dark2:  #434c5e;
+    --dark3:  #4c566a;
+
+    --gray1:   #fafafa;
+    --gray2:    #eaeaeb;
+    --gray3:    #dbdbdc;
+
+    --light0: #d8dee9;
+    --light1: #e5e9f0;
+    --light2: #eceff4;
+    --light3: #ffffff;
+
+    --frost0: #8fbcbb;
+    --frost1: #88c0d0;
+    --frost2: #81a1c1;
+    --frost3: #5e81ac;
+
+    --red:    #bf616a;
+    --orange: #d08770;
+    --yellow: #ebcb8b;
+    --green:  #a3be8c;
+    --purple: #b48ead;
+    --blue:   #7986CB;
+    
+    /* discord palette */
+    --discord-green: hsla(153, 46%, 49%, 1);
+    --discord-yellow: hsla(38, 96%, 54%, 1);
+    --discord-yellow-alt: hsla(37, 65%, 63%, 1);
+    --discord-yellow-light: hsla(50, 42%, 48%, 1);
+    --discord-yellow-bg: hsla(38, 96%, 54%, 0.1);
+    --discord-orange: hsla(20, 84%, 52%, 1);
+    --discord-orange-light: hsla(24, 90%, 61%, 1);
+    --discord-red: hsla(0, 85%, 61%, 1);
+    --discord-red-hover: hsla(0, 66%, 55%, 1);
+    --discord-blue: hsla(227, 58%, 65%, 1);
+    --discord-blue-hover: hsla(227, 44%, 59%, 1);
+    --discord-grey: hsla(214, 10%, 50%, 1);
+    --discord-grey-hover: hsla(214, 10%, 45%, 1);
+    --discord-grey-toggle: hsla(218, 5%, 47%, 1);
+    --discord-dark: hsla(216, 7%, 14%, 1);
+    --discord-dark-hover: hsla(216, 7%, 14%, 0.7);
+    
+    /* Special Colors */
+    /* --background-code-preview: hsla(204, 6%, 17%, 1); */
+    --blockquote-bg:        hsla(240, 11%, 2%, 0.07);
+    --blockquote-border:      hsla(286, 22%, 66%, 1);
+    --markup-code:            hsla(34, 89%, 61%, 1);
+    --text-strong:          var(--discord-yellow-alt);
+    --text-em:                hsla(62, 31%, 61%, 1);
+    --text-tag:           hsla(27, 100%, 63%, 0.73);
+    --text-mark:              hsla(37, 82%, 74%, 1);
+
+    /* Syntax Highlighting */
+    --syntax-default:   rgb(191, 193, 194);
+    --syntax-red:       rgb(224, 108, 117);
+    --syntax-green:     rgb(152, 195, 121);
+    --syntax-yellow:    rgb(209, 154, 102);
+    --syntax-blue:      rgb(86, 156, 214);
+    --syntax-teal:      rgb(86, 182, 194);
+    --syntax-purple:    rgb(198, 120, 221);
+    --syntax-grey:      rgb(112, 128, 144);
+  
+    
+    /* font style */
+    --font-monospace: "IBM Plex Mono", monospace;
+    --font-sans-serif: "Rubik", sans-serif;
+    --font-serif: "IBM Plex Serif", serif;
+  
+    /* font size  */
+    --font-size-normal:             18px;
+    --font-size-code:               16px;
+    --font-size-side-dock:          16px;
+    --font-size-side-dock-title:    18px;
+    --font-size-status-bar:         14px;
+
+    --font-size-h1:                 38px;
+    --font-size-h2:                 32px;
+    --font-size-h3:                 28px;
+    --font-size-h4:                 24px;
+    --font-size-h5:                 21px;
+    --font-size-h6:                 18px;
+    --font-size-notes: 0.875rem;
+}
+
+.theme-dark
+{
+    --background-primary:         var(--dark0);
+    --background-primary-alt:     var(--dark0);
+    --background-secondary:       var(--dark1);
+    --background-secondary-alt:   var(--dark2);
+    --text-title-h1:              var(--red);
+    --text-title-h2:              var(--orange);
+    --text-title-h3:              var(--discord-yellow-alt);
+    --text-title-h4:              var(--green);
+    --text-title-h5:              var(--purple);
+    --text-title-h6:              var(--blue); 
+    --text-normal:                var(--light2);
+    --text-faint:                 var(--light0);
+    --text-muted:                 var(--light1);
+    --text-link:                  var(--frost0);
+    --text-a:                     var(--frost0); /*orignial was  var(--frost3);*/
+    --text-a-hover:               var(--frost2); 
+    --text-mark:                  rgba(136, 192, 208, 0.3); /* frost1 */
+    --pre-code:                   var(--dark1);    
+    --text-highlight-bg:          #EF5350;  
+    
+    --interactive-accent:         var(--frost0);
+    --interactive-before:         var(--dark3);
+    --background-modifier-border: var(--dark2);
+    --text-accent:                var(--orange);
+    --interactive-accent-rgb:     var(--orange);
+
+    --inline-code:                    var(--frost2);
+    --code-block:                     var(--frost1);  /*text color in preview*/
+    --vim-cursor:                     var(--orange);
+    /* #UserDef --text-selection --> was  var(--dark3); */
+    --text-selection:             rgba(0, 255, 225, 0.575);
+}
+.theme-light
+{
+	--background-primary:         var(--gray1);
+	--background-primary-alt:     var(--gray2);
+	--background-secondary:       var(--gray2);
+	--background-secondary-alt:   var(--gray3);
+
+  --background-modifier-border: var(--gray3);   /* <hr> in Preview */
+	--background-modifier-form-field: #fff;
+  --background-modifier-form-field-highlighted: #fff;
+  --background-modifier-box-shadow: rgba(0, 0, 0, 0.1);
+  --background-modifier-success: #A4E7C3;
+  --background-modifier-error: #e68787;
+  --background-modifier-error-rgb: 230, 135, 135;
+  --background-modifier-error-hover: #FF9494;
+  --background-modifier-cover: rgba(0, 0, 0, 0.8);
+
+  --text-header: hsla(233, 45%, 69%, 1);
+  --text-title-h1: hsla(243, 35%, 65%, 1);
+  --text-title-h2: var(--text-header);
+  --text-title-h3: var(--text-header);
+  --text-title-h4: var(--text-header);
+  --text-title-h5: var(--text-header);
+  --text-title-h6: hsla(192, 13%, 53%, 1);
+
+  --text-normal:                var(--dark1);
+	--text-faint:                 var(--dark3);
+	--text-muted:                 var(--dark2);
+  --text-error:                    #e75545;
+  --text-error-hover:              #f86959;
+	--text-link:                  var(--frost0);
+	--text-a:                     var(--frost3);
+	--text-a-hover:               var(--frost1);
+	--text-mark:                  var(--frost1);  /* highlight-bg in Preview */
+	--pre-code:                   var(--light2);
+	
+	--interactive-accent:         var(--frost0);
+	--interactive-before:         var(--light0);
+	
+	--text-accent:                var(--orange);
+  --text-accent-hover:              #2d9dff;
+	--interactive-accent-rgb:     var(--orange);
+	            
+  --inline-code:               var(--discord-orange-light); 	/* back ticks */
+	--code-block:                 MediumVioletRed;
+	--vim-cursor:                 #f86959;
+
+  --text-selection:             rgba(0, 255, 225, 0.185);
+  --text-highlight-bg:          rgba(172, 106, 168, 0.459);
+  --text-on-accent:                               #f2f2f2;
+}
+html,
+body 
+{
+  font-size: 16px !important;
+  -webkit-font-smoothing: auto;
+}
+
+li {
+  padding-top: 0.5px;
+  padding-bottom: 0.5px;
+}
+/* LINKS
+---------------------------------------------------------*/
+a,
+.cm-hmd-internal-link /* internal link */
+{
+    color: var(--text-a) !important;
+    text-decoration: none !important;
+
+}
+
+/* Preview Link & Internal Link Color on Hover */
+a:hover,
+.cm-hmd-internal-link:hover
+{
+  color: var(--discord-blue-hover) !important;
+  text-decoration: none !important;
+}
+
+/* Preview URL Color */
+.cm-url
+{
+    color: var(--text-a-hover) !important;
+    text-decoration: none !important;
+}
+/*-------------------------------------------------------*/
+
+
+
+/* TEXT COLOR & SIZE, NOT Headings or Special Markup
+---------------------------------------------------------*/
+/* EDITOR */
+.cm-s-obsidian, .mod-single-child .cm-s-obsidian {
+  font-size: var(--font-size-normal);
+  font-family: var(--font-sans-serif);
+}
+
+/* PREVIEW */
+.markdown-preview-view, .mod-single-child .markdown-preview-view {
+  font-size: var(--font-size-normal);
+}
+/*-------------------------------------------------------*/
+
+/* Bold
+---------------------------------------------------------*/
+strong {
+  background-color: var(--text-mark) !important;
+  color: var(--discord-yellow-alt);
+  font-weight: 600 !important;
+}
+.cm-s-obsidian .cm-strong {
+  color: var(--discord-yellow-alt);
+  font-weight: 600 !important;
+}
+
+/* PREVIEW Highlight */
+mark 
+{
+    background-color: var(--text-mark) !important;
+
+}
+
+
+/* Italics
+---------------------------------------------------------*/
+em {
+  color: var(--text-em);
+}
+.cm-em {
+  color: var(--text-em);
+}
+.cm-formatting-em {
+  font-style: normal;
+}
+.cm-em:not(.cm-formatting-em) {
+  margin-left: -1px;
+}
+
+
+/* Comments %% %%
+---------------------------------------------------------*/
+.cm-comment{
+  color:#be60699e !important; 
+  font-size: var(--text-title-h6);
+  font-style: oblique !important;
+}
+
+
+/* Headings for Editor and Preview
+---------------------------------------------------------*/
+.cm-header-1, .markdown-preview-view h1
+{
+  color: var(--text-title-h1) !important;
+  font-weight: 500 !important;
+  font-size: var(--font-size-h1);
+}
+
+.cm-header-2, .markdown-preview-view h2
+{
+  color: var(--text-title-h2) !important;
+  font-weight: 500 !important;
+  font-size: var(--font-size-h2);
+}
+
+.cm-header-3, .markdown-preview-view h3
+{
+  color: var(--text-title-h3) !important;
+  font-weight: 500 !important;
+  font-size: var(--font-size-h3);
+}
+
+.cm-header-4, .markdown-preview-view h4
+{
+  color: var(--text-title-h4) !important;
+  font-weight: 500 !important;
+  font-size: var(--font-size-h4);
+}
+
+.cm-header-5, .markdown-preview-view h5
+{
+  color: var(--text-title-h5) !important;
+  font-weight: 500 !important;
+  font-size: var(--font-size-h5) ;
+}
+
+.cm-header-6, .markdown-preview-view h6
+{
+  color: var(--text-title-h6) !important;
+  font-weight: 500 !important;
+  font-size: var(--font-size-h6) ;
+}
+/*-------------------------------------------------------*/
+
+
+/* INLINE CODE
+---------------------------------------------------------*/
+/* PREVIEW */
+.markdown-preview-view code
+{
+  text-shadow: unset !important;
+  color: var(--markup-code) !important;
+  background-color: var(--discord-yellow-bg);
+  font-size: 100%;
+  padding-top: 4px;
+  padding-bottom: 1px;
+  /* font-size: var(--font-size-code); */
+}
+
+/* Preview Inline? */
+.markdown-preview-section code
+{
+    color: var(--inline-code) !important;
+    font: var(--font-sans-serif) !important;
+    font-size: 100px;
+    padding: 4px;
+}
+
+.cm-s-obsidian,
+.cm-inline-code
+{
+    -webkit-font-smoothing: auto !important;
+    /* color: var(--markup-code) */
+}
+
+.cm-inline-code
+{
+    padding: 0 0.5 rem;
+    color:var(--text-muted);
+    font-family: var(--font-monospace);
+    font-size: 100%;
+    font-weight: 600;
+    font-style: normal;
+    white-space: pre-wrap;
+    background-clip: border-box;
+    color: var(--inline-code) !important;
+    background-color: var(--pre-code) !important;
+    /* padding: 1px !important; */
+}
+
+
+
+/*-------------------------------------------------------*/
+
+
+/* Code Block Formatting
+---------------------------------------------------------*/
+/* Preview Background Color  */
+.HyperMD-codeblock-bg
+{
+    background-color: var(--pre-code) !important;
+}
+
+.HyperMD-codeblock
+{
+    line-height: 1.4em !important;
+    /* color: var(--code-block) !important; */
+}
+
+.HyperMD-codeblock-begin
+{
+    border-top-left-radius: 4px !important;
+    border-top-right-radius: 4px !important;
+}
+
+.HyperMD-codeblock-end
+{
+    border-bottom-left-radius: 4px !important;
+    border-bottom-right-radius: 4px !important;
+} 
+/*-------------------------------------------------------*/  
+  
+  
+  
+code[class*='language-'],
+pre[class*='language-'] {
+  text-align: left !important;
+  white-space: pre !important;
+  word-spacing: normal !important;
+  word-break: normal !important;
+  word-wrap: normal !important;
+  line-height: 1.5 !important;
+  -moz-tab-size: 4 !important;
+  -o-tab-size: 4 !important;
+  tab-size: 4 !important;
+  -webkit-hyphens: none !important;
+  -moz-hyphens: none !important;
+  -ms-hyphens: none !important;
+  hyphens: none !important;
+}
+  
+
+
+
+.theme-dark code[class*="language-"],
+.theme-dark pre[class*="language-"],
+.theme-light code[class*="language-"],
+.theme-light pre[class*="language-"]
+{
+    text-shadow: none !important;
+    background-color: var(--pre-code) !important;
+}
+
+.theme-dark :not(pre) > code[class*="language-"],
+.theme-dark pre[class*="language-"] {
+  background: var(--background-code-preview);
+  text-shadow: unset !important;
+  padding: 6px 10px;
+  margin: 1.5rem 0;
+}
+
+.markdown-preview-view pre {
+  background-color: var(--background-code-preview);
+  margin: 2rem 0;
+}
+
+
+.markdown-preview-view pre code {
+  color: var(--text-normal) !important;
+  background-color: unset !important;
+  font-size: 100%;
+}
+
+pre.frontmatter[class*="language-"] {
+  background-color: transparent;
+  text-shadow: unset !important;
+  color: var(--text-normal) !important;
+  padding: 0;
+  margin: 0 0 1.5rem 0;
+  line-height: 20px;
+}
+
+/*------------SYNTAX HIGHLIGHTING------------------*/
+
+  
+.theme-dark .token.property,
+.theme-dark .token.tag,
+.theme-dark .token.constant,
+.theme-dark .token.symbol,
+.theme-dark .token.deleted {
+  color: var(--syntax-red) !important;
+}
+
+.theme-dark .token.selector,
+.theme-dark .token.attr-name,
+.theme-dark .token.string,
+.theme-dark .token.char,
+.theme-dark .token.builtin,
+.theme-dark .token.inserted {
+  color: var(--syntax-green) !important;
+}
+
+.theme-dark .token.atrule,
+.theme-dark .token.attr-value,
+.theme-dark .token.function,
+.theme-dark .token.class-name {
+  color: var(--syntax-yellow) !important;
+}
+
+.theme-dark .token.punctuation {
+  color: var(--text-normal) !important;
+}
+
+.theme-dark .token.keyword {
+  color: var(--syntax-blue) !important;
+}
+
+.theme-dark .token.operator,
+.theme-dark .token.entity,
+.theme-dark .token.url,
+.theme-dark .language-css .token.string,
+.theme-dark .style .token.string,
+.theme-dark .token.variable {
+  color: var(--syntax-teal) !important;
+}
+
+.theme-dark .token.boolean,
+.theme-dark .token.number,
+.theme-dark .language-css .token.unit {
+  color: var(--syntax-purple)!important;
+}
+
+.theme-dark .token.comment,
+.theme-dark .token.prolog,
+.theme-dark .token.doctype,
+.theme-dark .token.cdata {
+  color: var(--syntax-grey) !important;
+}
+/*-------------------------------------------------------*/  
+
+/* Light Theme Code Syntax */
+/* .token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+  color: var(--gray-1) !important;
+}
+
+.token.punctuation {
+  color: var(--gray-2) !important;
+}
+
+.token.selector,
+.token.tag {
+  color: var(--red) !important;
+}
+
+.token.property,
+.token.boolean,
+.token.number,
+.token.constant,
+.token.symbol,
+.token.attr-name,
+.token.deleted {
+  color: var(--orange) !important;
+}
+
+.token.string,
+.token.char,
+.token.attr-value,
+.token.builtin,
+.token.inserted {
+  color: var(--green) !important;
+}
+
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string {
+  color: var(--aqua) !important;
+}
+
+.token.atrule,
+.token.keyword {
+  color: var(--purple) !important;
+}
+
+.token.function,
+.token.macro.property {
+  color: var(--blue) !important;
+}
+
+.token.class-name {
+  color: var(--yellow) !important;
+}
+
+.token.regex,
+.token.important,
+.token.variable {
+  color: var(--purple) !important;
+
+}
+
+.token.important,
+.token.bold {
+  font-weight: bold !important;
+}
+
+.token.italic {
+  font-style: italic !important;
+}
+
+.token.entity {
+  cursor: help !important;
+}
+*/
+
+
+
+
+
+
+
+.view-actions a
+{
+    color: var(--text-normal) !important;
+}
+
+.view-actions a:hover
+{
+    color: var(--text-a) !important;
+}
+
+
+img
+{
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.HyperMD-list-line
+{
+    padding-top: 0 !important;
+}
+
+.CodeMirror-linenumber,
+.cm-formatting
+{
+    font-family: var(--font-sans-serif) !important;
+    color: var(--text-muted); /* MD characters and ``` constructors */
+    padding: 0 0.5rem !important;
+}
+
+/* .cm-inline-code .cm- {
+  font-size: 100%;
+} */
+
+.cm-hashtag,
+.search-result-file-matched-text
+{
+    /* #UserDef color was --> var(--frost2) !important; */
+    color: darkslategray;    /* search result text color */
+}
+
+
+.markdown-preview-section pre code,
+.markdown-preview-section code
+{
+    font-size: 0.9em !important;
+    background-color: var(--pre-code) !important;
+}
+
+.markdown-preview-section pre code
+{
+    padding: 4px !important;
+    line-height: 1.4em !important;
+    display: block !important;
+    color: var(--code-block) !important;
+}
+
+
+
+
+
+
+/* 
+Does Nothing -------------------------------------------------? 
+*/
+
+/* .side-dock
+{
+    border-right: 0 !important;
+} */
+.nav-file-tag
+{
+    background-color: var(--discord-orange-light) !important;
+    color: var(--text-a) !important;
+}
+
+.is-active .nav-file-title
+{
+    color: var(--text-accent-hover) !important;
+    /* background-color: var(--discord-orange) !important; */
+    background-color: var(--background-primary-alt) !important;
+}
+
+.nav-file-title
+{
+    border-bottom-left-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
+    border-top-left-radius: 0 !important;
+    border-top-right-radius: 0 !important;
+}
+
+.workspace-leaf-header-title
+{
+    font-weight: 600 !important;
+    background-color: #EF5350;
+}
+
+.side-dock-title
+{
+    padding-top: 15px !important;
+    /* font-size: 50px !important; */
+    font-style: italic;
+}
+
+.markdown-embed-title
+{
+    font-weight: 600 !important;
+    /* background-color: #EF5350; */
+}
+
+.markdown-embed
+{
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+}
+
+.suggestion-item.is-selected
+{
+    /* background-color: var(--background-secondary); */
+    background-color: var(--discord-yellow);
+}
+.checkbox-container
+{
+    background-color: var(--interactive-before);
+    /* background-color: var(--discord-orange); */
+}
+
+.checkbox-container:after
+{
+    background-color: var(--background-secondary-alt);
+    /* background-color: var(--discord-orange); */
+}
+.mod-cta
+{
+    color: var(--background-secondary-alt) !important;
+    /* color: var(--discord-organge) !important; */
+    background-color: var(--discord-orange);
+    font-weight: 600 !important;
+}
+
+.mod-cta:hover
+{
+    background-color: var(--interactive-before) !important;
+    font-weight: 600 !important;
+}
+
+.CodeMirror-cursor
+{
+    background-color: var(--vim-cursor) !important;
+    color: var(--vim-cursor) !important;
+    opacity: 60% !important;
+}
+  /*preview padding too small*/
+  .theme-light .markdown-preview-view, .theme-light .mod-single-child .markdown-preview-view {
+    font-size: var(--font-size-normal);
+  }
+  
+  /* code blocks in preview */
+  pre code {
+    /* font-size: var(--font-size-code) !important; */
+    /* font-size: var(--font-size-h1) !important; */
+  }
+
+
+
+  
+  /* Editor CodeBlock TEXT Appearance */
+  .cm-s-obsidian pre.HyperMD-codeblock {
+    font-size: var(--font-size-code) !important;
+    font-family: var(--font-monospace);
+  }
+  
+  
+  
+  .workspace-leaf-content[data-type="tag"] .tag-pane-tag-count,
+  .workspace-leaf-content[data-type="tag"] .tag-pane-tag-text {  
+    font-size: var(--font-size-side-dock);
+  }
+  
+  .workspace-leaf-content[data-type="backlink"] .search-result-file-matches {
+    font-size: var(--font-size-side-dock);
+  }
+/*----------------DOES NOTHING?--------------------------*/
+
+
+
+
+
+
+
+.mermaid .note
+{
+    fill: var(--frost3) !important;
+}
+
+/*---------------------------------------------------------
+###########################################################
+Workspace Interface Changes
+###########################################################
+---------------------------------------------------------*/
+
+/* Title Bar Elements (Min, Max, Close)
+---------------------------------------------------------*/
+.titlebar-button.mod-back,    
+.titlebar-button.mod-forward,    
+.titlebar-button.mod-minimize,
+.titlebar-button.mod-maximize,
+.titlebar-button.mod-close {
+    background-color: var(--dark3);
+    opacity: 1;
+    color: var(--orange);  
+  }
+
+  .titlebar-button.mod-back:hover,    
+  .titlebar-button.mod-forward:hover,
+  .titlebar-button.mod-minimize:hover,
+  .titlebar-button.mod-maximize:hover,
+  .titlebar-button.mod-close:hover {
+    background-color: var(--discord-blue-hover);
+  }
+/*-------------------------------------------------------*/
+
+/* Workspace Inner Icon Color on Hover
+---------------------------------------------------------*/
+.workspace-tab-header-inner-icon:hover
+{
+    color:#EF5350;
+}
+
+.workspace-tab-header.is-active 
+{
+    background-color:DarkCyan;
+}
+/*-------------------------------------------------------*/
+
+/* Workspace Side Dock Button Color on Hover 
+---------------------------------------------------------*/
+.side-dock-ribbon-tab:hover,
+.side-dock-ribbon-action:hover,
+.side-dock-ribbon-action.is-active:hover,
+.nav-action-button:hover,
+.side-dock-collapse-btn:hover,
+.workspace-ribbon-collapse-btn:hover 
+{
+    color: #EF5350;
+}
+/* Navigator Collapse Icon Color */
+.CodeMirror-foldgutter-folded,
+.is-collapsed .nav-folder-collapse-indicator
+{
+    color: var(--text-a) !important;
+}
+/*-------------------------------------------------------*/
+
+/* Footer Status-bar
+---------------------------------------------------------*/
+.status-bar{
+  font-size: var(--font-size-status-bar);
+  /* #UserDef */
+  color: var(--frost2)
+}
+
+/* Document Search (ctrl+f)
+---------------------------------------------------------*/
+.document-search-input 
+{
+    color: var(--purple) !important;
+} 
+
+/* Vault Search (ctrl+shift+f)
+---------------------------------------------------------*/
+.search-result-file-title {
+  font-size: var(--font-size-side-dock-title) ;
+  color: var(--blue);
+}
+.search-result-file-matches, .search-empty-state {
+  font-size: var(--font-size-side-dock);
+  color: var(--text-faint);
+}
+/*-------------------------------------------------------*/
+
+
+/* Main Background */
+.cm-s-obsidian,
+.markdown-preview-view
+{
+    /* padding-left: 10px !important; */
+    padding-right: 8px !important;
+    /* background-color: #EF5350; */
+}
+
+/* vertical resize-handle */
+.workspace-split.mod-vertical > * > .workspace-leaf-resize-handle,
+.workspace-split.mod-left-split > .workspace-leaf-resize-handle,
+.workspace-split.mod-right-split > .workspace-leaf-resize-handle
+{
+    width: 4px !important;
+    background-color: var(--background-secondary-alt);
+}
+
+/* horizontal resize-handle */
+.workspace-split.mod-horizontal > * > .workspace-leaf-resize-handle
+{
+    height: 4px !important;
+    background-color: var(--background-secondary-alt);
+}
+
+/* Remove vertical split padding */
+.workspace-split.mod-root .workspace-split.mod-vertical .workspace-leaf-content,
+.workspace-split.mod-vertical > .workspace-split,
+.workspace-split.mod-vertical > .workspace-leaf,
+.workspace-tabs
+{
+    padding-right: 0px;
+}
+
+/* NO FILE OPEN page
+---------------------------------------------------------*/
+.empty-state-title {
+  color: var(--discord-yellow-alt) !important;
+}
+.empty-state-action {
+  color: var(--text-muted) !important;
+}
+.empty-state-action:hover {
+  color: var(--text-normal) !important;
+}
+
+mark > strong {
+  color: var(--discord-yellow-alt) !important;
+  font-weight: 500;
+  padding: 0 2px;
+}
+.empty-state-container:hover
+{
+    background-color: var(--background-secondary-alt);
+    /* background-color: var(--discord-green); */
+    border: 2px solid var(--interactive-accent) !important;
+}
+/*-------------------------------------------------------*/
+
+/* Graph
+---------------------------------------------------------*/
+.graph-view.color-circle,
+.graph-view.color-fill-highlight,
+.graph-view.color-line-highlight
+{
+    color: var(--interactive-accent-rgb) !important;
+}
+.graph-view.color-text
+{
+    color: var(--text-a-hover) !important;
+}
+/*
+.graph-view.color-fill
+{
+    color: var(--background-secondary);
+}
+.graph-view.color-line
+{
+  color: var(--background-modifier-border);
+}
+*/
+
+/*---------------------------------------------------------
+TABLES */
+th
+{
+    font-weight: 800 !important;
+}
+
+thead
+{
+    border-bottom: 2px solid var(--frost3) !important;
+}
+/* Preview Line Spacing for Tables */
+.HyperMD-table-row
+{
+    line-height: normal !important;
+    padding-left: 4px !important;
+    padding-right: 4px !important;
+    /* background-color: var(--pre-code) !important; */
+}
+
+.HyperMD-table-row-0
+{
+    padding-top: 4px !important;
+}
+/*-------------------------------------------------------*/
+
+/* Check Boxes
+---------------------------------------------------------*/
+input.task-list-item-checkbox {
+  border: 1px solid var(--frost3);
+  appearance: none;
+  -webkit-appearance: none;
+}
+
+input.task-list-item-checkbox:checked {
+  background-color: var(--frost2);
+  box-shadow: inset 0 0 0 2px var(--background-primary);
+}

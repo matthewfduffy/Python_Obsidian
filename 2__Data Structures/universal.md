@@ -1,0 +1,2 @@
+len()                  built-in function to get the length of a data-structure                                                                    
+range()               built-in function to create a sequence of integers  

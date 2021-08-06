@@ -1,0 +1,5 @@
+`fexp`
+
+```html
+{{ foo.bar }}
+```
