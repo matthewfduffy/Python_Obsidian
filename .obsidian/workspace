@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4__Functions/4.1__User Defined Functions/4.1.4 -- ARGS and KWARGS.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4__Functions/4.1__User Defined Functions/4.1.4 -- ARGS and KWARGS.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4__Functions/4.1__User Defined Functions/4.1.4 -- ARGS and KWARGS.md"
+                "file": "README.md"
               }
             }
           },
@@ -130,15 +130,15 @@
   },
   "active": "8211dcc3ce7152db",
   "lastOpenFiles": [
+    "README.md",
+    "9__Regular Expressions/9.1 -- Regex Intro.md",
+    "8__Intermediate Libraries/itertools.md",
     "4__Functions/4.1__User Defined Functions/4.1.4 -- ARGS and KWARGS.md",
     "4__Functions/4.1__User Defined Functions/4.1.5 -- Lambda Expressions.md",
     "4__Functions/4.1__User Defined Functions/4.1.3 -- Arguments.md",
     "4__Functions/4.1__User Defined Functions/4.1.3a -- Intermediate Argument Gotchas.md",
     "13__Recursion/Untitled.md",
     "13__Recursion/13.3 -- Base Case and Recursive Step.md",
-    "2__Data Structures/2.4__Dictionaries/2.4.2 -- Dictionary Methods Index.md",
-    "2__Data Structures/2.4__Dictionaries/dictionary methods/get().md",
-    "2__Data Structures/2.1__Strings/string methods/translate().md",
-    "2__Data Structures/2.1__Strings/string methods/capitalize().md"
+    "2__Data Structures/2.4__Dictionaries/2.4.2 -- Dictionary Methods Index.md"
   ]
 }
