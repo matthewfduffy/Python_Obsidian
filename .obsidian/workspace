@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Admin/_Python Master Links.md",
-            "mode": "source"
+            "file": "4__Functions/4.2__Built-in Functions/4.2.3 -- Zip( ).md",
+            "mode": "preview"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Admin/_Python Master Links.md",
+                "file": "4__Functions/4.2__Built-in Functions/4.2.3 -- Zip( ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Admin/_Python Master Links.md"
+                "file": "4__Functions/4.2__Built-in Functions/4.2.3 -- Zip( ).md"
               }
             }
           },
@@ -130,6 +130,8 @@
   },
   "active": "34f1e56a9ef51ff7",
   "lastOpenFiles": [
+    "4__Functions/4.2__Built-in Functions/4.2.3 -- Zip( ).md",
+    "4__Functions/4.1__User Defined Functions/4.1.5 -- Lambda Expressions.md",
     "_Admin/_Python Master Links.md",
     "_Admin/_Admin.md",
     "_Admin/Return, Re-Read.md",
@@ -137,8 +139,6 @@
     "Untitled.md",
     "99__VS Code Snippets/Sub-Pages/Generator comprehension.md",
     "99__VS Code Snippets/VS-Code-Python-Snippets.md",
-    "99__VS Code Snippets/Sub-Pages/Generator comprehension if filter.md",
-    "99__VS Code Snippets/Sub-Pages/Set comprehension if filter.md",
-    "99__VS Code Snippets/Sub-Pages/Set comprehension.md"
+    "99__VS Code Snippets/Sub-Pages/Generator comprehension if filter.md"
   ]
 }
