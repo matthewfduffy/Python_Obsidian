@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8211dcc3ce7152db",
+        "id": "35a9b89474e0e56a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -84,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,9 +104,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -128,7 +122,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8211dcc3ce7152db",
+  "active": "35a9b89474e0e56a",
   "lastOpenFiles": [
     "README.md",
     "9__Regular Expressions/9.1 -- Regex Intro.md",
