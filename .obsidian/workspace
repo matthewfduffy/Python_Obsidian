@@ -4,13 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "35a9b89474e0e56a",
+        "id": "ead1c8c3e7c1b339",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "99__VS Code Snippets/VS-Code-Python-Snippets.md",
+            "mode": "preview"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "b8e35777bc860888",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4__Functions/4.2__Built-in Functions/Built-In Functions/sorted().md",
-            "mode": "preview"
+            "file": "99__VS Code Snippets/Sub-Pages/SL docstring.md",
+            "mode": "source"
           }
         }
       }
@@ -84,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4__Functions/4.2__Built-in Functions/Built-In Functions/sorted().md",
+                "file": "99__VS Code Snippets/Sub-Pages/SL docstring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4__Functions/4.2__Built-in Functions/Built-In Functions/sorted().md"
+                "file": "99__VS Code Snippets/Sub-Pages/SL docstring.md"
               }
             }
           },
@@ -128,17 +141,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "35a9b89474e0e56a",
+  "active": "b8e35777bc860888",
   "lastOpenFiles": [
-    "4__Functions/4.2__Built-in Functions/Built-In Functions/Untitled.md",
-    "4__Functions/4.2__Built-in Functions/4.2.1 -- Built in Functions Index.md",
-    "2__Data Structures/2.1__Strings/string methods/upper().md",
-    "4__Functions/4.2__Built-in Functions/Built-In Functions/isinstance().md",
-    "4__Functions/4.2__Built-in Functions/4.2.3 -- Zip( ).md",
-    "4__Functions/4.2__Built-in Functions/4.2.5 -- Filter( ).md",
-    "4__Functions/4.2__Built-in Functions/4.2.4 -- Map( ).md",
-    "README.md",
-    "9__Regular Expressions/9.1 -- Regex Intro.md",
-    "8__Intermediate Libraries/itertools.md"
+    "99__VS Code Snippets/Sub-Pages/SL docstring.md",
+    "99__VS Code Snippets/VS-Code-Python-Snippets.md",
+    "99__VS Code Snippets/Sub-Pages/ML docstring.md",
+    "99__VS Code Snippets/Sub-Pages/Flask route POST only.md",
+    "99__VS Code Snippets/Sub-Pages/Flask route with GET, POST.md",
+    "99__VS Code Snippets/Sub-Pages/Flask route.md",
+    "99__VS Code Snippets/Sub-Pages/Flask hello world.md",
+    "99__VS Code Snippets/Sub-Pages/Set cookie.md",
+    "99__VS Code Snippets/Sub-Pages/Flask logging.md",
+    "99__VS Code Snippets/Sub-Pages/error handler.md"
   ]
 }
