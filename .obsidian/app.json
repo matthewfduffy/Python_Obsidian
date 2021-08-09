@@ -16,7 +16,8 @@
     "substrings",
     "Elif",
     "recurse",
-    "iterables"
+    "iterables",
+    "Deque"
   ],
   "alwaysUpdateLinks": true,
   "readableLineLength": false,

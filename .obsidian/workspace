@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "8__Intermediate Libraries/collections.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8__Intermediate Libraries/collections.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8__Intermediate Libraries/collections.md"
+                "file": "README.md"
               }
             }
           },
@@ -130,6 +130,8 @@
   },
   "active": "34f1e56a9ef51ff7",
   "lastOpenFiles": [
+    "README.md",
+    "8__Intermediate Libraries/collections/Untitled.md",
     "8__Intermediate Libraries/collections.md",
     "2__Data Structures/2__Data Structures.md",
     "2__Data Structures/universal.md",
@@ -137,8 +139,6 @@
     "8__Intermediate Libraries/Untitled.md",
     "5__Modules and Packages/5.2 -- Modules and Packages.md",
     "1__ Python Language Basics/1.1 --  Data Types & Operators.md",
-    "4__Functions/4.2__Built-in Functions/4.2.3 -- Zip( ).md",
-    "4__Functions/4.1__User Defined Functions/4.1.5 -- Lambda Expressions.md",
-    "_Admin/_Python Master Links.md"
+    "4__Functions/4.2__Built-in Functions/4.2.3 -- Zip( ).md"
   ]
 }
