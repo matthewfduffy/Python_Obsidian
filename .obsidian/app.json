@@ -15,7 +15,8 @@
     "templating",
     "substrings",
     "Elif",
-    "recurse"
+    "recurse",
+    "iterables"
   ],
   "alwaysUpdateLinks": true,
   "readableLineLength": false,
