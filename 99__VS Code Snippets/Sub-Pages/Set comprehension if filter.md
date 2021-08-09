@@ -1,3 +1,4 @@
+#py-vs-snippet
 `sci`
 
 ```py

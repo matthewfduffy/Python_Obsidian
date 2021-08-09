@@ -4,25 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ead1c8c3e7c1b339",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "99__VS Code Snippets/VS-Code-Python-Snippets.md",
-            "mode": "preview"
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "b8e35777bc860888",
+        "id": "34f1e56a9ef51ff7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "99__VS Code Snippets/Sub-Pages/SL docstring.md",
+            "file": "_Admin/_Python Master Links.md",
             "mode": "source"
           }
         }
@@ -97,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99__VS Code Snippets/Sub-Pages/SL docstring.md",
+                "file": "_Admin/_Python Master Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99__VS Code Snippets/Sub-Pages/SL docstring.md"
+                "file": "_Admin/_Python Master Links.md"
               }
             }
           },
@@ -141,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b8e35777bc860888",
+  "active": "34f1e56a9ef51ff7",
   "lastOpenFiles": [
-    "99__VS Code Snippets/Sub-Pages/SL docstring.md",
+    "_Admin/_Python Master Links.md",
+    "_Admin/_Admin.md",
+    "_Admin/Return, Re-Read.md",
+    "_Training/Video Courses.md",
+    "Untitled.md",
+    "99__VS Code Snippets/Sub-Pages/Generator comprehension.md",
     "99__VS Code Snippets/VS-Code-Python-Snippets.md",
-    "99__VS Code Snippets/Sub-Pages/ML docstring.md",
-    "99__VS Code Snippets/Sub-Pages/Flask route POST only.md",
-    "99__VS Code Snippets/Sub-Pages/Flask route with GET, POST.md",
-    "99__VS Code Snippets/Sub-Pages/Flask route.md",
-    "99__VS Code Snippets/Sub-Pages/Flask hello world.md",
-    "99__VS Code Snippets/Sub-Pages/Set cookie.md",
-    "99__VS Code Snippets/Sub-Pages/Flask logging.md",
-    "99__VS Code Snippets/Sub-Pages/error handler.md"
+    "99__VS Code Snippets/Sub-Pages/Generator comprehension if filter.md",
+    "99__VS Code Snippets/Sub-Pages/Set comprehension if filter.md",
+    "99__VS Code Snippets/Sub-Pages/Set comprehension.md"
   ]
 }
