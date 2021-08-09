@@ -7,8 +7,11 @@
         "id": "35a9b89474e0e56a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "4__Functions/4.2__Built-in Functions/4.2.5 -- Filter( ).md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -81,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "4__Functions/4.2__Built-in Functions/4.2.5 -- Filter( ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "4__Functions/4.2__Built-in Functions/4.2.5 -- Filter( ).md"
+              }
             }
           },
           {
@@ -124,6 +130,8 @@
   },
   "active": "35a9b89474e0e56a",
   "lastOpenFiles": [
+    "4__Functions/4.2__Built-in Functions/4.2.5 -- Filter( ).md",
+    "4__Functions/4.2__Built-in Functions/4.2.4 -- Map( ).md",
     "README.md",
     "9__Regular Expressions/9.1 -- Regex Intro.md",
     "8__Intermediate Libraries/itertools.md",
@@ -131,8 +139,6 @@
     "4__Functions/4.1__User Defined Functions/4.1.5 -- Lambda Expressions.md",
     "4__Functions/4.1__User Defined Functions/4.1.3 -- Arguments.md",
     "4__Functions/4.1__User Defined Functions/4.1.3a -- Intermediate Argument Gotchas.md",
-    "13__Recursion/Untitled.md",
-    "13__Recursion/13.3 -- Base Case and Recursive Step.md",
-    "2__Data Structures/2.4__Dictionaries/2.4.2 -- Dictionary Methods Index.md"
+    "13__Recursion/Untitled.md"
   ]
 }
