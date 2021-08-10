@@ -374,7 +374,8 @@ em {
 /* Preview Background Color  */
 .HyperMD-codeblock-bg
 {
-    background-color: var(--pre-code) !important;
+    /* background-color: var(--pre-code) !important; */
+    background-color: rebeccapurple !important;
 }
 
 .HyperMD-codeblock
