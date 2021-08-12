@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "13__Recursion/13.1 -- Recursion - Conceptual.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "13__Recursion/13.1 -- Recursion - Conceptual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "13__Recursion/13.1 -- Recursion - Conceptual.md"
               }
             }
           },
@@ -130,6 +130,7 @@
   },
   "active": "34f1e56a9ef51ff7",
   "lastOpenFiles": [
+    "13__Recursion/13.1 -- Recursion - Conceptual.md",
     "README.md",
     "8__Intermediate Libraries/collections/Untitled.md",
     "8__Intermediate Libraries/collections.md",
@@ -138,7 +139,6 @@
     "2__Data Structures/2.6 -- Checking Type with `type()`.md",
     "8__Intermediate Libraries/Untitled.md",
     "5__Modules and Packages/5.2 -- Modules and Packages.md",
-    "1__ Python Language Basics/1.1 --  Data Types & Operators.md",
-    "4__Functions/4.2__Built-in Functions/4.2.3 -- Zip( ).md"
+    "1__ Python Language Basics/1.1 --  Data Types & Operators.md"
   ]
 }
