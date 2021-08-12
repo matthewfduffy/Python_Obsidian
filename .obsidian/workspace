@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "04__Functions/4.3__ Anonymous Functions/4.3.1 -- Lambda Functions.md",
+            "file": "02__Data Structures/02__Data Structures.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04__Functions/4.3__ Anonymous Functions/4.3.1 -- Lambda Functions.md",
+                "file": "02__Data Structures/02__Data Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04__Functions/4.3__ Anonymous Functions/4.3.1 -- Lambda Functions.md"
+                "file": "02__Data Structures/02__Data Structures.md"
               }
             }
           },
@@ -130,6 +130,7 @@
   },
   "active": "34f1e56a9ef51ff7",
   "lastOpenFiles": [
+    "02__Data Structures/02__Data Structures.md",
     "04__Functions/4.3__ Anonymous Functions/4.3.1 -- Lambda Functions.md",
     "04__Functions/4.1__User Defined Functions/4.1.4 -- ARGS and KWARGS.md",
     "04__Functions/4.3__ Anonymous Functions/4.1.5 -- Lambda Functions.md",
@@ -138,7 +139,6 @@
     "04__Functions/4.2__Built-in Functions/4.2.2 -- enumerate( ).md",
     "04__Functions/4.1__User Defined Functions/4.1.5 -- Lambda Functions.md",
     "2__Data Structures/2__Data Structures.md",
-    "13__Recursion/13.5 -- Multiple Recursion.md",
-    "13__Recursion/13.1 -- Recursion - Conceptual.md"
+    "13__Recursion/13.5 -- Multiple Recursion.md"
   ]
 }
