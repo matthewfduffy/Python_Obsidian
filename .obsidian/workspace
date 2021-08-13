@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "02__Data Structures/2.2__Lists/list methods/remove().md",
+            "file": "02__Data Structures/2.1__Strings/string methods/index().md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02__Data Structures/2.2__Lists/list methods/remove().md",
+                "file": "02__Data Structures/2.1__Strings/string methods/index().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02__Data Structures/2.2__Lists/list methods/remove().md"
+                "file": "02__Data Structures/2.1__Strings/string methods/index().md"
               }
             }
           },
@@ -130,15 +130,15 @@
   },
   "active": "34f1e56a9ef51ff7",
   "lastOpenFiles": [
-    "02__Data Structures/2.2__Lists/list methods/remove().md",
-    "02__Data Structures/2.2__Lists/list methods/pop().md",
-    "02__Data Structures/2.2__Lists/list methods/insert().md",
-    "02__Data Structures/2.2__Lists/list methods/index().md",
-    "02__Data Structures/2.2__Lists/list methods/extend().md",
-    "02__Data Structures/2.2__Lists/list methods/count().md",
-    "02__Data Structures/2.2__Lists/list methods/append().md",
-    "02__Data Structures/2.2__Lists/list methods/clear().md",
-    "02__Data Structures/2.2__Lists/list methods/copy().md",
-    "02__Data Structures/2.2__Lists/2.2.2 -- List Methods index.md"
+    "02__Data Structures/2.1__Strings/string methods/index().md",
+    "02__Data Structures/2.1__Strings/string methods/format().md",
+    "02__Data Structures/2.1__Strings/string methods/find().md",
+    "02__Data Structures/2.1__Strings/string methods/casefold().md",
+    "02__Data Structures/2.1__Strings/string methods/center().md",
+    "02__Data Structures/2.1__Strings/string methods/capitalize().md",
+    "02__Data Structures/2.1__Strings/string methods/advanced splitting.md",
+    "02__Data Structures/2.2__Lists/list methods/sort().md",
+    "02__Data Structures/2.2__Lists/list methods/reverse().md",
+    "02__Data Structures/2.2__Lists/list methods/remove().md"
   ]
 }

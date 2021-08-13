@@ -1,12 +1,10 @@
 #string-method 
-## .index()
+### .index()
 
 
 ##### Definition and Usage:
 The `index()` method finds the first occurrence of the specified value.
-
 The `index()` method raises an exception if the value is not found.
-
 The `index()` method is almost the same as the `find()` method, the only difference is that the `find()` method returns `-1` if the value is not found. (See example below)
 
 ##### Syntax:
@@ -19,9 +17,7 @@ The `index()` method is almost the same as the `find()` method, the only differe
 | start     | Optional. Where to start the search. Default is 0.                     |
 | end       | Optional. Where to end the search. Default is to the end of the string | 
 
-
-
-##### Examples:
+##### Example(s):
 ```py
 txt = "Hello, welcome to my world."  
   

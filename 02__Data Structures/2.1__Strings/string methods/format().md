@@ -1,12 +1,16 @@
+#string-method
 ### .format()
-#string-method 
-
 Formats specified values in a string.
 
-#### Syntax:
+##### Definition and Usage:
+The `format()` method formats the specified value(s) and insert them inside the string's placeholder.
+The placeholder is defined using curly brackets: `{}`. Read more about the placeholders in the Placeholder section below.
+The `format()` method returns the formatted string. <br>
+
+##### Syntax:
  `string.format(value1, value2...)`
 
-#### Parameter Values:
+##### Parameter Value(s):
 | Parameter         | Description                                                                       |
 | ----------------- | --------------------------------------------------------------------------------- |
 | value1, value2... | Required. One or more values that should be formatted and inserted in the string. | 
@@ -18,12 +22,7 @@ Formats specified values in a string.
 
 <br>
 
-#### Definition and Usage:
-The `format()` method formats the specified value(s) and insert them inside the string's placeholder.
-The placeholder is defined using curly brackets: `{}`. Read more about the placeholders in the Placeholder section below.
-The `format()` method returns the formatted string. <br>
-
-#### Examples:
+##### Example(s):
 ```py
 txt1 = "My name is {fname}, I'm {age}".format(fname = "John", age = 36)  
 txt2 = "My name is {0}, I'm {1}".format("John",36)  

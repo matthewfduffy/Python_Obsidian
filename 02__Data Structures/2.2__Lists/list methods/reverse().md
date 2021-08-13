@@ -1,26 +1,24 @@
-### .pop()
 #list-method 
-
-The `pop()` method removes the element at the specified position.
+### .reverse()
+The `reverse()` method reverses the sorting order of the elements.
 
 ##### Syntax:
- `list.pop(pos)`
+ `list.reverse()`
 
 ##### Parameter Values:
-| Parameter | Description                                                                                                                    |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| pos       | Optional. A number specifying the position of the element you want to remove, default value is -1, which returns the last item |
-|           |                                                                                                                                |
+None                                                                                                
 
 
 ##### Examples:
 ```py
 fruits = ['apple', 'banana', 'cherry']  
   
-fruits.pop(1)
-print(fruits)	# ['apple', 'cherry']
+fruits.reverse()
+print(fruits)	
+# ['cherry', 'banana', 'apple']
 ```
 
 ###### See Also:
 [[2.2.2 -- List Methods index]]
-[.pop()](https://www.w3schools.com/python/ref_list_pop.asp)
+[.reverse()](https://www.w3schools.com/python/ref_list_reverse.asp)
+#built-in-function  `reversed()` returns a reversed iterator object.

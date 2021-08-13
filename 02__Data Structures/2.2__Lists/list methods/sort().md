@@ -1,6 +1,5 @@
-### .sort()
 #list-method 
-
+### .sort()
 The `sort()` method sorts the list in alphabetical-ascending order, by default
 
 ##### Syntax:

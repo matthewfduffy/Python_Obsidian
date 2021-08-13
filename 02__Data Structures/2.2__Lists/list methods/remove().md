@@ -1,21 +1,22 @@
 #list-method 
 ### .remove()
-The `pop()` method removes the element at the specified position.
+The `pop()` method removes the first occurrence of the element with the specified value.
 
 ##### Syntax:
- `list.pop(pos)`
+ `list.remove(elmnt)`
 
 ##### Parameter Values:
-| Parameter | Description                                                                                                                    |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| pos       | Optional. A number specifying the position of the element you want to remove, default value is -1, which returns the last item |
+| Parameter | Description                                        |
+| --------- | -------------------------------------------------- |
+| elmnt     | Required. Any type. The element you want to remove | 
 
 ##### Examples:
 ```py
 fruits = ['apple', 'banana', 'cherry']  
   
-fruits.pop(1)
-print(fruits)	# ['apple', 'cherry']
+fruits.remove('banana')
+print(fruits)	
+# ['apple', 'cherry']
 ```
 
 ###### See Also:

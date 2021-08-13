@@ -1,20 +1,18 @@
-### .center()
 #string-method 
-
+### .center()
 The `center()` method will center align the string, using a specified character (space is default) as the fill character.
 
-Syntax: 
+##### Syntax: 
 `string.center(length, character)`
 
-Parameter Values:
+##### Parameter Value(s):
 | Parameter | Desc.                                                                               |
 | --------- | ----------------------------------------------------------------------------------- |
 | length    | Required. The length of the returned string                                         |
 | character | Optional. The character to fill the missing space on each side. <br> default is " " | 
 
-
+##### Example(s):
 ```py
-
 txt = "banana"  
   
 x = txt.center(20)  

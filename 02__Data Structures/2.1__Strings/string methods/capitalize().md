@@ -1,9 +1,11 @@
+#string-method 	
 ### .capitalize()
-#string-method 	[[2.1.2 -- String Methods Index]]
 
-Syntax:
+
+##### Syntax:
 `string.capitalize()`
 
+##### Example(s):
 ```py
 txt = "hello, and welcome to my world."  
   

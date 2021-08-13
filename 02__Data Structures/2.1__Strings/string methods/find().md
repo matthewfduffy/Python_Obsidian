@@ -1,27 +1,24 @@
 #string-method 
-## .find()
+### .find()
 Searches the string for a specified value and returns the position of where it was found.
+
+##### Definition and Usage:
+The `find()` method finds the first occurrence of the specified value.
+The `find()` method returns `-1` if the value is not found.
+The `find()` method is almost the same as the [[02__Data Structures/2.1__Strings/string methods/index() | index()]] method.
+The only difference is that the `index()` method raises an exception if the value is not found. (See example below) <br>
 
 ##### Syntax:
  `string.find(value, start, end)`
 
-##### Parameter Values:
+##### Parameter Value(s):
 | Parameter | Description                                                              |
 | --------- | ------------------------------------------------------------------------ |
 | value     | Required. The value to search for.                                       |
 | start     | Optional. Where to start the search. <br> Default is 0                   |
 | end       | Optional. Where to end the search. <br> Default is to the end of string. | 
 
-
-##### Definition and Usage:
-The `find()` method finds the first occurrence of the specified value.
-
-The `find()` method returns `-1` if the value is not found.
-
-The `find()` method is almost the same as the [[02__Data Structures/2.1__Strings/string methods/index() | index()]] method.
-The only difference is that the `index()` method raises an exception if the value is not found. (See example below) <br>
-
-##### Examples:
+##### Example(s):
 ```py
 print('smooth'.find('t'))
 # => '4'
