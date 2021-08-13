@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "02__Data Structures/02__Data Structures.md",
+            "file": "04__Functions/4.1__User Defined Functions/4.1.4 -- ARGS and KWARGS.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02__Data Structures/02__Data Structures.md",
+                "file": "04__Functions/4.1__User Defined Functions/4.1.4 -- ARGS and KWARGS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02__Data Structures/02__Data Structures.md"
+                "file": "04__Functions/4.1__User Defined Functions/4.1.4 -- ARGS and KWARGS.md"
               }
             }
           },
@@ -130,15 +130,15 @@
   },
   "active": "34f1e56a9ef51ff7",
   "lastOpenFiles": [
-    "02__Data Structures/02__Data Structures.md",
-    "04__Functions/4.3__ Anonymous Functions/4.3.1 -- Lambda Functions.md",
     "04__Functions/4.1__User Defined Functions/4.1.4 -- ARGS and KWARGS.md",
+    "02__Data Structures/02__Data Structures.md",
+    "02__Data Structures/2.6 -- Checking Type with `type()`.md",
+    "04__Functions/4.3__ Anonymous Functions/4.3.1 -- Lambda Functions.md",
     "04__Functions/4.3__ Anonymous Functions/4.1.5 -- Lambda Functions.md",
     "04__Functions/4.4__Intermediate Functions/4.3.2 -- Decorators.md",
     "04__Functions/4.4__Intermediate Functions/4.3.1 -- Closures.md",
     "04__Functions/4.2__Built-in Functions/4.2.2 -- enumerate( ).md",
     "04__Functions/4.1__User Defined Functions/4.1.5 -- Lambda Functions.md",
-    "2__Data Structures/2__Data Structures.md",
-    "13__Recursion/13.5 -- Multiple Recursion.md"
+    "2__Data Structures/2__Data Structures.md"
   ]
 }
