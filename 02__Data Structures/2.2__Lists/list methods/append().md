@@ -19,3 +19,8 @@ print(cities)
 --------------------------
 ["Atlanta", "Baltimore", "Chicago", "Denver", "Seattle", "New York"]
 ```
+
+
+###### See Also:
+[[2.2.2 -- List Methods index]]
+[.append()](https://www.w3schools.com/python/ref_list_append.asp)

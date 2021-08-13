@@ -1,26 +1,25 @@
-### .pop()
 #list-method 
-
-The `pop()` method removes the element at the specified position.
+### .index()
+The `index()` method returns the position at the _first occurrence_ of the specified value.
 
 ##### Syntax:
- `list.pop(pos)`
+ `list.index(elmnt)`
 
 ##### Parameter Values:
-| Parameter | Description                                                                                                                    |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| pos       | Optional. A number specifying the position of the element you want to remove, default value is -1, which returns the last item |
-|           |                                                                                                                                |
+| Parameter | Description                                   |
+| --------- | --------------------------------------------- |
+| elmnt     | Required. Any type. The element to search for | 
 
 
 ##### Examples:
 ```py
 fruits = ['apple', 'banana', 'cherry']  
   
-fruits.pop(1)
-print(fruits)	# ['apple', 'cherry']
+x = fruits.index('cherry')
+print(x)	
+# >>> 2
 ```
 
 ###### See Also:
 [[2.2.2 -- List Methods index]]
-[.pop()](https://www.w3schools.com/python/ref_list_pop.asp)
+[.index()](https://www.w3schools.com/python/ref_list_index.asp)

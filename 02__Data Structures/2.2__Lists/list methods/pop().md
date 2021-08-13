@@ -1,6 +1,5 @@
-### .pop()
 #list-method 
-
+### .pop()
 The `pop()` method removes the element at the specified position.
 
 ##### Syntax:
@@ -10,7 +9,6 @@ The `pop()` method removes the element at the specified position.
 | Parameter | Description                                                                                                                    |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | pos       | Optional. A number specifying the position of the element you want to remove, default value is -1, which returns the last item |
-|           |                                                                                                                                |
 
 
 ##### Examples:

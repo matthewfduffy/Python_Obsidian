@@ -1,6 +1,5 @@
-### .pop()
 #list-method 
-
+### .remove()
 The `pop()` method removes the element at the specified position.
 
 ##### Syntax:
@@ -10,8 +9,6 @@ The `pop()` method removes the element at the specified position.
 | Parameter | Description                                                                                                                    |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | pos       | Optional. A number specifying the position of the element you want to remove, default value is -1, which returns the last item |
-|           |                                                                                                                                |
-
 
 ##### Examples:
 ```py
@@ -23,4 +20,4 @@ print(fruits)	# ['apple', 'cherry']
 
 ###### See Also:
 [[2.2.2 -- List Methods index]]
-[.pop()](https://www.w3schools.com/python/ref_list_pop.asp)
+[.remove()](https://www.w3schools.com/python/ref_list_pop.asp)

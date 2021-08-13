@@ -1,26 +1,26 @@
-### .pop()
 #list-method 
-
-The `pop()` method removes the element at the specified position.
+### .insert()
+The `insert()` method inserts the specified value at the specified position.
 
 ##### Syntax:
- `list.pop(pos)`
+ `list.insert(pos, elmnt)`
 
 ##### Parameter Values:
-| Parameter | Description                                                                                                                    |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| pos       | Optional. A number specifying the position of the element you want to remove, default value is -1, which returns the last item |
-|           |                                                                                                                                |
+| Parameter | Description                                                         |
+| --------- | ------------------------------------------------------------------- |
+| pos       | Required. A number specifying in which position to insert the value |
+| elmnt     | Required. An element of any type                                    | 
 
 
 ##### Examples:
 ```py
 fruits = ['apple', 'banana', 'cherry']  
   
-fruits.pop(1)
-print(fruits)	# ['apple', 'cherry']
+fruits.insert(1, 'orange')
+print(fruits)	
+# ['apple', 'orange', 'banana', 'cherry']
 ```
 
 ###### See Also:
 [[2.2.2 -- List Methods index]]
-[.pop()](https://www.w3schools.com/python/ref_list_pop.asp)
+[.insert](https://www.w3schools.com/python/ref_list_insert.asp)
