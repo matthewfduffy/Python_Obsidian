@@ -10,7 +10,7 @@ The `index()` method is almost the same as the `find()` method, the only differe
 ##### Syntax:
  `string.index(value, start, end)`
 
-##### Parameter Values:
+##### Parameter Value(s):
 | Parameter | Description                                                            |
 | --------- | ---------------------------------------------------------------------- |
 | value     | Required. The value to search for.                                     |
