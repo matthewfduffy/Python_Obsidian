@@ -1,6 +1,5 @@
-### .extend()
 #list-method 
-
+### .extend()
 The `extend()` method adds the specified list elements (or any iterable) to the end of the current list.
 
 ##### Syntax:

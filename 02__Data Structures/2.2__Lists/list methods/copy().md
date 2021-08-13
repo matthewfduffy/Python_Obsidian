@@ -1,6 +1,5 @@
+#list-method 
 ### .copy()
-#list-method
-
 The `copy()` method returns a copy of the specified list.
 
 ##### Syntax:
@@ -17,6 +16,7 @@ x = fruits.copy()
   
 print(x)
 ```
+
 
 ###### See Also:
 [[2.2.2 -- List Methods index]]

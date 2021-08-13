@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4.1.4a -- Unpacking Args and Kwargs.md",
+            "file": "02__Data Structures/2.2__Lists/list methods/count().md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "6ebd2d56787c076f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "02__Data Structures/2.2__Lists/list methods/extend().md",
             "mode": "source"
           }
         }
@@ -84,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.1.4a -- Unpacking Args and Kwargs.md",
+                "file": "02__Data Structures/2.2__Lists/list methods/count().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4.1.4a -- Unpacking Args and Kwargs.md"
+                "file": "02__Data Structures/2.2__Lists/list methods/count().md"
               }
             }
           },
@@ -130,15 +141,15 @@
   },
   "active": "34f1e56a9ef51ff7",
   "lastOpenFiles": [
+    "02__Data Structures/2.2__Lists/list methods/count().md",
+    "02__Data Structures/2.2__Lists/list methods/append().md",
+    "02__Data Structures/2.2__Lists/list methods/extend().md",
+    "02__Data Structures/2.2__Lists/list methods/clear().md",
+    "02__Data Structures/2.2__Lists/list methods/copy().md",
+    "02__Data Structures/2.2__Lists/2.2.2 -- List Methods index.md",
+    "02__Data Structures/02__Data Structures.md",
     "Untitled.md",
     "04__Functions/4.1__User Defined Functions/4.1.4 -- ARGS and KWARGS.md",
-    "02__Data Structures/02__Data Structures.md",
-    "02__Data Structures/2.6 -- Checking Type with `type()`.md",
-    "04__Functions/4.3__ Anonymous Functions/4.3.1 -- Lambda Functions.md",
-    "04__Functions/4.3__ Anonymous Functions/4.1.5 -- Lambda Functions.md",
-    "04__Functions/4.4__Intermediate Functions/4.3.2 -- Decorators.md",
-    "04__Functions/4.4__Intermediate Functions/4.3.1 -- Closures.md",
-    "04__Functions/4.2__Built-in Functions/4.2.2 -- enumerate( ).md",
-    "04__Functions/4.1__User Defined Functions/4.1.5 -- Lambda Functions.md"
+    "02__Data Structures/2.6 -- Checking Type with `type()`.md"
   ]
 }
