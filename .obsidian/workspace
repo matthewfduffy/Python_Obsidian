@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "02__Data Structures/2.1__Strings/string methods/index().md",
+            "file": "08__Intermediate Libraries/collections/deque.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dequ",
+                "query": "deque",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02__Data Structures/2.1__Strings/string methods/index().md",
+                "file": "08__Intermediate Libraries/collections/deque.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02__Data Structures/2.1__Strings/string methods/index().md"
+                "file": "08__Intermediate Libraries/collections/deque.md"
               }
             }
           },
@@ -130,15 +130,15 @@
   },
   "active": "34f1e56a9ef51ff7",
   "lastOpenFiles": [
+    "08__Intermediate Libraries/collections/deque.md",
+    "08__Intermediate Libraries/collections/collections (main).md",
+    "02__Data Structures/02__Data Structures.md",
     "02__Data Structures/2.1__Strings/string methods/index().md",
     "02__Data Structures/2.1__Strings/string methods/format().md",
     "02__Data Structures/2.1__Strings/string methods/find().md",
     "02__Data Structures/2.1__Strings/string methods/casefold().md",
     "02__Data Structures/2.1__Strings/string methods/center().md",
     "02__Data Structures/2.1__Strings/string methods/capitalize().md",
-    "02__Data Structures/2.1__Strings/string methods/advanced splitting.md",
-    "02__Data Structures/2.2__Lists/list methods/sort().md",
-    "02__Data Structures/2.2__Lists/list methods/reverse().md",
-    "02__Data Structures/2.2__Lists/list methods/remove().md"
+    "02__Data Structures/2.1__Strings/string methods/advanced splitting.md"
   ]
 }
