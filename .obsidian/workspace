@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "08__Intermediate Libraries/collections/deque.md",
+            "file": "07__Error Handling/7.1 -- Errors and Exceptions.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08__Intermediate Libraries/collections/deque.md",
+                "file": "07__Error Handling/7.1 -- Errors and Exceptions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08__Intermediate Libraries/collections/deque.md"
+                "file": "07__Error Handling/7.1 -- Errors and Exceptions.md"
               }
             }
           },
@@ -130,6 +130,7 @@
   },
   "active": "34f1e56a9ef51ff7",
   "lastOpenFiles": [
+    "07__Error Handling/7.1 -- Errors and Exceptions.md",
     "08__Intermediate Libraries/collections/deque.md",
     "08__Intermediate Libraries/collections/collections (main).md",
     "02__Data Structures/02__Data Structures.md",
@@ -138,7 +139,6 @@
     "02__Data Structures/2.1__Strings/string methods/find().md",
     "02__Data Structures/2.1__Strings/string methods/casefold().md",
     "02__Data Structures/2.1__Strings/string methods/center().md",
-    "02__Data Structures/2.1__Strings/string methods/capitalize().md",
-    "02__Data Structures/2.1__Strings/string methods/advanced splitting.md"
+    "02__Data Structures/2.1__Strings/string methods/capitalize().md"
   ]
 }
