@@ -6,10 +6,23 @@
       {
         "id": "34f1e56a9ef51ff7",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01__ Python Language Basics/1.2.a ∟ any and all.md",
+            "file": "04__Functions/4.2__Built-in Functions/4.2.2 -- enumerate( ).md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "5a5d6fa6f1f20e2e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "04__Functions/4.2__Built-in Functions/4.2.5 -- Filter( ).md",
             "mode": "source"
           }
         }
@@ -39,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "all()",
+                "query": "enumerate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01__ Python Language Basics/1.2.a ∟ any and all.md",
+                "file": "04__Functions/4.2__Built-in Functions/4.2.5 -- Filter( ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01__ Python Language Basics/1.2.a ∟ any and all.md"
+                "file": "04__Functions/4.2__Built-in Functions/4.2.5 -- Filter( ).md"
               }
             }
           },
@@ -129,17 +141,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "34f1e56a9ef51ff7",
+  "active": "5a5d6fa6f1f20e2e",
   "lastOpenFiles": [
+    "04__Functions/4.2__Built-in Functions/4.2.5 -- Filter( ).md",
+    "04__Functions/4.2__Built-in Functions/4.2.2 -- enumerate( ).md",
+    "Working/enumerate.md",
     "01__ Python Language Basics/1.2.a ∟ any and all.md",
     "02__Data Structures/2.4__Dictionaries/2.4.3 -- List Comprehensions with Dictionaries.md",
     "04__Functions/4.4__Name and Name Spaces/Untitled.md",
     "Untitled.md",
     "04__Functions/4.1__User Defined Functions/4.1.3a -- Intermediate Argument Gotchas.md",
     "02__Data Structures/2.4__Dictionaries/2.4.2 -- Looping through Dictionaries.md",
-    "02__Data Structures/02__Data Structures.md",
-    "4.1.4a -- Unpacking Args and Kwargs.md",
-    "04__Functions/4.1__User Defined Functions/4.1.4 -- ARGS and KWARGS.md",
-    "07__Error Handling/7.1 -- Errors and Exceptions.md"
+    "02__Data Structures/02__Data Structures.md"
   ]
 }
