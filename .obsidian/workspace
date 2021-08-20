@@ -6,23 +6,10 @@
       {
         "id": "34f1e56a9ef51ff7",
         "type": "leaf",
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "04__Functions/4.2__Built-in Functions/4.2.2 -- enumerate( ).md",
-            "mode": "source"
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "5a5d6fa6f1f20e2e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "04__Functions/4.2__Built-in Functions/4.2.5 -- Filter( ).md",
+            "file": "02__Data Structures/2.2__Lists/2.2.3 -- List Comprehensions.md",
             "mode": "source"
           }
         }
@@ -97,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04__Functions/4.2__Built-in Functions/4.2.5 -- Filter( ).md",
+                "file": "02__Data Structures/2.2__Lists/2.2.3 -- List Comprehensions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04__Functions/4.2__Built-in Functions/4.2.5 -- Filter( ).md"
+                "file": "02__Data Structures/2.2__Lists/2.2.3 -- List Comprehensions.md"
               }
             }
           },
@@ -141,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5a5d6fa6f1f20e2e",
+  "active": "34f1e56a9ef51ff7",
   "lastOpenFiles": [
-    "04__Functions/4.2__Built-in Functions/4.2.5 -- Filter( ).md",
-    "04__Functions/4.2__Built-in Functions/4.2.2 -- enumerate( ).md",
-    "Working/enumerate.md",
-    "01__ Python Language Basics/1.2.a ∟ any and all.md",
-    "02__Data Structures/2.4__Dictionaries/2.4.3 -- List Comprehensions with Dictionaries.md",
-    "04__Functions/4.4__Name and Name Spaces/Untitled.md",
+    "02__Data Structures/2.2__Lists/2.2.3 -- List Comprehensions.md",
+    "06__Scripting and Files/6.4 -- Writing a file.md",
+    "Working/6.2 -- Iterators and Generators.md",
     "Untitled.md",
-    "04__Functions/4.1__User Defined Functions/4.1.3a -- Intermediate Argument Gotchas.md",
-    "02__Data Structures/2.4__Dictionaries/2.4.2 -- Looping through Dictionaries.md",
-    "02__Data Structures/02__Data Structures.md"
+    "Working/Untitled.md",
+    "04__Functions/4.4__Intermediate Functions/4.4.1 -- Closures.md",
+    "Working/Closures.md",
+    "04__Functions/4.2__Built-in Functions/4.2.2 -- enumerate( ).md",
+    "04__Functions/4.2__Built-in Functions/4.2.5 -- Filter( ).md",
+    "Working/enumerate.md"
   ]
 }
