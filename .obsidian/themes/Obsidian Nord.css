@@ -748,7 +748,36 @@ a.tag:hover {
     color: var(--code-block) !important;
 }
 
+/* code blocks in preview */
+pre code {
+  font-family: var(--font-monospace);
+  font-size: var(--font-size-code) !important;
+  padding: 6px !important;
+  line-height: normal;
+  display: block;
+  color: var(--code-block)  !important;
+}
 
+/* padding of code blocks in preview */
+.markdown-preview-view pre {
+ padding: 0px !important;
+}
+
+/* Editor CodeBlock TEXT Appearance */
+.cm-s-obsidian pre.HyperMD-codeblock {
+  font-family: var(--font-monospace) !important;
+  font-size: var(--font-size-code) !important;
+  padding: 1px !important;
+  display: block;
+  color: var(--code-block) !important;
+  font-weight: 500;
+  text-indent: 0px !important;
+  
+}
+/*remove the border of code block in editor */
+.HyperMD-codeblock-bg{
+  border: 0px !important;
+}
 
 
 
@@ -852,19 +881,35 @@ Does Nothing -------------------------------------------------?
   
   /* code blocks in preview */
   pre code {
-    /* font-size: var(--font-size-code) !important; */
-    /* font-size: var(--font-size-h1) !important; */
+    font-family: var(--font-monospace);
+    font-size: var(--font-size-code) !important;
+    padding: 6px !important;
+    line-height: normal;
+    display: block;
+    color: var(--code-block)  !important;
   }
 
-
-
+/* padding of code blocks in preview */
+  .markdown-preview-view pre {
+   padding: 0px !important;
+  }
   
   /* Editor CodeBlock TEXT Appearance */
   .cm-s-obsidian pre.HyperMD-codeblock {
+    font-family: var(--font-monospace) !important;
     font-size: var(--font-size-code) !important;
-    font-family: var(--font-monospace);
+    padding: 1px !important;
+    display: block;
+    color: var(--code-block) !important;
+    font-weight: 500;
+    text-indent: 0px !important;
+    
   }
-  
+  /*remove the border of code block in editor */
+  .HyperMD-codeblock-bg{
+    border: 0px !important;
+  }
+
   
   
   .workspace-leaf-content[data-type="tag"] .tag-pane-tag-count,
