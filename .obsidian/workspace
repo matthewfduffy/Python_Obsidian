@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "02__Data Structures/2.2__Lists/2.2.3 -- List Comprehensions.md",
+            "file": "07__Error Handling/7.1 -- Errors and Exceptions.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02__Data Structures/2.2__Lists/2.2.3 -- List Comprehensions.md",
+                "file": "07__Error Handling/7.1 -- Errors and Exceptions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02__Data Structures/2.2__Lists/2.2.3 -- List Comprehensions.md"
+                "file": "07__Error Handling/7.1 -- Errors and Exceptions.md"
               }
             }
           },
@@ -130,6 +130,8 @@
   },
   "active": "34f1e56a9ef51ff7",
   "lastOpenFiles": [
+    "07__Error Handling/7.1 -- Errors and Exceptions.md",
+    "11__Web Development/11.4__Django/Untitled.md",
     "02__Data Structures/2.2__Lists/2.2.3 -- List Comprehensions.md",
     "06__Scripting and Files/6.4 -- Writing a file.md",
     "Working/6.2 -- Iterators and Generators.md",
@@ -137,8 +139,6 @@
     "Working/Untitled.md",
     "04__Functions/4.4__Intermediate Functions/4.4.1 -- Closures.md",
     "Working/Closures.md",
-    "04__Functions/4.2__Built-in Functions/4.2.2 -- enumerate( ).md",
-    "04__Functions/4.2__Built-in Functions/4.2.5 -- Filter( ).md",
-    "Working/enumerate.md"
+    "04__Functions/4.2__Built-in Functions/4.2.2 -- enumerate( ).md"
   ]
 }

@@ -782,7 +782,7 @@ pre code {
   color: var(--code-block) !important;
   font-weight: 500;
   text-indent: 0px !important;
-  
+  padding-top: 16px !important;
 }
 /*remove the border of code block in editor */
 .HyperMD-codeblock-bg{
