@@ -522,6 +522,7 @@ pre[class*='language-'] {
 .markdown-preview-view pre code {
   color: var(--text-normal) !important;
   background-color: unset !important;
+  
   font-size: 100%;
 }
 
