@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "02__Data Structures/2.4__Dictionaries/2.4.3 -- List Comprehensions with Dictionaries.md",
+            "file": "01__ Python Language Basics/1.2.a ∟ any and all.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "deque",
+                "query": "all()",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +64,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02__Data Structures/2.4__Dictionaries/2.4.3 -- List Comprehensions with Dictionaries.md",
+                "file": "01__ Python Language Basics/1.2.a ∟ any and all.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02__Data Structures/2.4__Dictionaries/2.4.3 -- List Comprehensions with Dictionaries.md"
+                "file": "01__ Python Language Basics/1.2.a ∟ any and all.md"
               }
             }
           },
@@ -130,6 +131,7 @@
   },
   "active": "34f1e56a9ef51ff7",
   "lastOpenFiles": [
+    "01__ Python Language Basics/1.2.a ∟ any and all.md",
     "02__Data Structures/2.4__Dictionaries/2.4.3 -- List Comprehensions with Dictionaries.md",
     "04__Functions/4.4__Name and Name Spaces/Untitled.md",
     "Untitled.md",
@@ -138,7 +140,6 @@
     "02__Data Structures/02__Data Structures.md",
     "4.1.4a -- Unpacking Args and Kwargs.md",
     "04__Functions/4.1__User Defined Functions/4.1.4 -- ARGS and KWARGS.md",
-    "07__Error Handling/7.1 -- Errors and Exceptions.md",
-    "08__Intermediate Libraries/collections/deque.md"
+    "07__Error Handling/7.1 -- Errors and Exceptions.md"
   ]
 }
