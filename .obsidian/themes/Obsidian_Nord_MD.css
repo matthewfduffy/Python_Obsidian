@@ -355,7 +355,7 @@ em {
 /* Comments %% %%
 ---------------------------------------------------------*/
 .cm-comment{
-  color:#be60699e !important; 
+  color:var(--text-em) !important; 
   font-size: var(--text-title-h6);
   font-style: oblique !important;
 }
@@ -408,7 +408,7 @@ em {
 /* Active File Highlight
 ---------------------------------------------------------*/
 .nav-file-title.is-active {
-  background-color:var(--text-selection-active);
+  background-color:var(--frost3);
 }
 /* Active Line Highlight
 ---------------------------------------------------------*/
