@@ -34,4 +34,4 @@ for index, animal in enumerate(animals):
 ```
 
 
-%%[10 Must Know Built-in Functions in Python](https://medium.com/pythoneers/10-must-known-built-in-functions-in-python-2f196b9c0359)%%
+[10 Must Know Built-in Functions in Python](https://medium.com/pythoneers/10-must-known-built-in-functions-in-python-2f196b9c0359)
