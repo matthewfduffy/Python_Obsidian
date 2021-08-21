@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "17ef16574152fc2d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -84,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04__Functions/4.4__Name and Name Spaces/4.4.1 -- Names and Namespaces.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04__Functions/4.4__Name and Name Spaces/4.4.1 -- Names and Namespaces.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -128,8 +139,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "34f1e56a9ef51ff7",
+  "active": "17ef16574152fc2d",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "04__Functions/4.4__Name and Name Spaces/4.4.1 -- Names and Namespaces.md",
     "04__Functions/4.4__Name and Name Spaces/Untitled.md",
     "Untitled.md",
@@ -138,7 +150,6 @@
     "02__Data Structures/02__Data Structures.md",
     "4.1.4a -- Unpacking Args and Kwargs.md",
     "04__Functions/4.1__User Defined Functions/4.1.4 -- ARGS and KWARGS.md",
-    "07__Error Handling/7.1 -- Errors and Exceptions.md",
-    "08__Intermediate Libraries/collections/deque.md"
+    "07__Error Handling/7.1 -- Errors and Exceptions.md"
   ]
 }
