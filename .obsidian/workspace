@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "07__Error Handling/7.2 -- Try and Except.md",
+            "file": "Working/Currying.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07__Error Handling/7.2 -- Try and Except.md",
+                "file": "Working/Currying.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07__Error Handling/7.2 -- Try and Except.md"
+                "file": "Working/Currying.md"
               }
             }
           },
@@ -130,6 +130,7 @@
   },
   "active": "34f1e56a9ef51ff7",
   "lastOpenFiles": [
+    "Working/Currying.md",
     "07__Error Handling/7.2 -- Try and Except.md",
     "07__Error Handling/7.1 -- Errors and Exceptions.md",
     "07__Error Handling/Untitled.md",
@@ -138,7 +139,6 @@
     "06__Scripting and Files/6.4 -- Writing a file.md",
     "Working/6.2 -- Iterators and Generators.md",
     "Untitled.md",
-    "Working/Untitled.md",
-    "04__Functions/4.4__Intermediate Functions/4.4.1 -- Closures.md"
+    "Working/Untitled.md"
   ]
 }

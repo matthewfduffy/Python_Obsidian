@@ -83,6 +83,7 @@
     --text-em:                hsla(62, 31%, 61%, 1);
     --text-tag:           hsla(27, 100%, 63%, 0.73);
     --text-mark:              hsla(37, 82%, 74%, 1);
+    --text-selection:              rgb(191, 193, 194);
 
     /* Syntax Highlighting */
     --syntax-default:   rgb(191, 193, 194);
@@ -404,7 +405,23 @@ em {
   font-size: var(--font-size-h6) ;
 }
 /*-------------------------------------------------------*/
-
+/* Active File Highlight
+---------------------------------------------------------*/
+.nav-file-title.is-active {
+  /* background-color: #444a73; */
+  background-color:var(--text-selection-active);
+}
+/* Active Line Highlight
+---------------------------------------------------------*/
+.CodeMirror-activeline .CodeMirror-linebackground{
+  /* background-color: var(--text-selection) !important; */
+  background-color: #7a88cf !important;
+}
+/* Text Color of Active Line */
+.CodeMirror-activeline {
+  color: greenyellow !important;
+}
+/*-------------------------------------------------------*/
 
 /* INLINE CODE
 ---------------------------------------------------------*/
