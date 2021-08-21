@@ -214,7 +214,7 @@ li {
   padding-top: 0.5px;
   padding-bottom: 0.5px;
 }
-/* Folders 
+/* Custom Folder Icons
 ---------------------------------------------------------*/
 .nav-folder.mod-root > .nav-folder-title .nav-folder-title-content::before{
   content: "\F0770";

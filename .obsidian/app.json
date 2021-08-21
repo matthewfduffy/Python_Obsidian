@@ -17,9 +17,7 @@
     "Elif",
     "recurse",
     "iterables",
-    "Deque",
-    "namespaces",
-    "namespace"
+    "Deque"
   ],
   "alwaysUpdateLinks": true,
   "readableLineLength": false,
