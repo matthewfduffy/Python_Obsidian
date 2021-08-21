@@ -101,7 +101,7 @@ body {
     --dim-aqua:      #569d79;
     --dim-blue:      #5a93a2;
     --dim-purple:    #b87b9d;
-
+    --text-selection-active: #e4e1cd;
 
     /* 2.2 Light theme color variables */
     --bg0-light:     #f0edd8;
@@ -403,19 +403,18 @@ thead
   /* Active File Highlight
 ---------------------------------------------------------*/
 .nav-file-title.is-active {
-    /* background-color: #444a73; */
     background-color:var(--text-selection-active);
+    color:#22282c;
   }
   /* Active Line Highlight
   ---------------------------------------------------------*/
   .CodeMirror-activeline .CodeMirror-linebackground{
     /* background-color: var(--text-selection) !important; */
-    background-color: #7a88cf !important;
-    /* color: greenyellow !important; */
+    background-color: var(--bg5-dark)!important;
   }
   /* Text Color of Active Line */
   .CodeMirror-activeline {
-    color: greenyellow !important;
+    color: var(--dim-purple) !important;
   }
   /*-------------------------------------------------------*/
   /*File icon for notes*/
