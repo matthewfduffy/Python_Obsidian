@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Working/Currying.md",
+            "file": "Working/enumerate.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Working/Currying.md",
+                "file": "Working/enumerate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Working/Currying.md"
+                "file": "Working/enumerate.md"
               }
             }
           },
@@ -130,6 +130,7 @@
   },
   "active": "34f1e56a9ef51ff7",
   "lastOpenFiles": [
+    "Working/enumerate.md",
     "Working/Currying.md",
     "07__Error Handling/7.2 -- Try and Except.md",
     "07__Error Handling/7.1 -- Errors and Exceptions.md",
@@ -138,7 +139,6 @@
     "02__Data Structures/2.2__Lists/2.2.3 -- List Comprehensions.md",
     "06__Scripting and Files/6.4 -- Writing a file.md",
     "Working/6.2 -- Iterators and Generators.md",
-    "Untitled.md",
-    "Working/Untitled.md"
+    "Untitled.md"
   ]
 }
