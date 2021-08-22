@@ -433,8 +433,8 @@ em {
 ---------------------------------------------------------*/
 .CodeMirror-activeline {
   /* color: var(--light1) !important; */
-  color: var(--yellow) !important;
-  font-weight: 600;
+  color: greenyellow !important;
+  /* font-weight: 600; */
 }
 /*-------------------------------------------------------*/
 
