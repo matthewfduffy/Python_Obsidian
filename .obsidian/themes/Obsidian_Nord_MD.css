@@ -406,7 +406,7 @@ em {
   font-weight: 500 !important;
   font-size: var(--font-size-h6);
   border-top: 1px solid;
-  
+
 }
 /*-------------------------------------------------------*/
 /* Active File Highlight
@@ -417,12 +417,15 @@ em {
 /* Active Line Highlight
 ---------------------------------------------------------*/
 .CodeMirror-activeline .CodeMirror-linebackground{
-  background-color: var(--text-selection-active);
+  /* background-color: var(--text-selection-active); */
+  background-color: hsla(242, 24%, 57%, 0.3);
 }
 /* Text Color of Active Line
 ---------------------------------------------------------*/
 .CodeMirror-activeline {
-  color: var(--light1) !important;
+  /* color: var(--light1) !important; */
+  color: var(--yellow) !important;
+  font-weight: 600;
 }
 /*-------------------------------------------------------*/
 
@@ -735,7 +738,7 @@ img
 {
     font-family: var(--font-sans-serif) !important;
     color: var(--text-muted); /* MD characters and ``` constructors */
-    padding: 0 0.5rem !important;
+    /* padding: 0 0.5rem !important; */
 }
 
 /* .cm-inline-code .cm- {

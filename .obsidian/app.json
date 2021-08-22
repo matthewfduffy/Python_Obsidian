@@ -17,7 +17,9 @@
     "Elif",
     "recurse",
     "iterables",
-    "Deque"
+    "Deque",
+    "hashable",
+    "unhashable"
   ],
   "alwaysUpdateLinks": true,
   "readableLineLength": false,
