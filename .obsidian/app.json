@@ -19,7 +19,8 @@
     "iterables",
     "Deque",
     "hashable",
-    "unhashable"
+    "unhashable",
+    "doesn"
   ],
   "alwaysUpdateLinks": true,
   "readableLineLength": false,
