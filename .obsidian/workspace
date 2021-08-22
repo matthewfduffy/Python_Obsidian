@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10__Object Oriented Python/10.1 -- Elements of OOP.md",
+            "file": "10__Object Oriented Python/10.0 -- OOP Intro.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10__Object Oriented Python/10.1 -- Elements of OOP.md",
+                "file": "10__Object Oriented Python/10.0 -- OOP Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10__Object Oriented Python/10.1 -- Elements of OOP.md"
+                "file": "10__Object Oriented Python/10.0 -- OOP Intro.md"
               }
             }
           },
@@ -130,8 +130,8 @@
   },
   "active": "b6b7842ae6bf77cf",
   "lastOpenFiles": [
-    "10__Object Oriented Python/10.1 -- Elements of OOP.md",
     "10__Object Oriented Python/10.0 -- OOP Intro.md",
+    "10__Object Oriented Python/10.1 -- Elements of OOP.md",
     "10__Object Oriented Python/10.1 -- Elements of an Object.md",
     "10__Object Oriented Python/10.1 -- Constructing Classes in Python.md",
     "10__Object Oriented Python/Untitled 1.md",
