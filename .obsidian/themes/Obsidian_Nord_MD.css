@@ -803,7 +803,7 @@ pre code {
   padding: 1px !important;
   display: block;
   color: var(--code-block) !important;
-  font-weight: 500;
+  /* font-weight: 500; */
   text-indent: 0px !important;
   padding-top: 16px !important;
 }
