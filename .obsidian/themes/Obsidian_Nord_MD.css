@@ -404,7 +404,9 @@ em {
 {
   color: var(--text-title-h6) !important;
   font-weight: 500 !important;
-  font-size: var(--font-size-h6) ;
+  font-size: var(--font-size-h6);
+  border-top: 1px solid;
+  
 }
 /*-------------------------------------------------------*/
 /* Active File Highlight
