@@ -375,6 +375,7 @@ em {
   color: var(--text-title-h2) !important;
   font-weight: 500 !important;
   font-size: var(--font-size-h2);
+  padding-top: 24px;
 }
 
 .markdown-preview-view h1, 
@@ -388,6 +389,7 @@ em {
   color: var(--text-title-h3) !important;
   font-weight: 500 !important;
   font-size: var(--font-size-h3);
+  padding-top: 24px;
 }
 
 .cm-header-4, .markdown-preview-view h4
@@ -395,6 +397,7 @@ em {
   color: var(--text-title-h4) !important;
   font-weight: 500 !important;
   font-size: var(--font-size-h4);
+  padding-top: 24px;
 }
 
 .cm-header-5, .markdown-preview-view h5
@@ -402,6 +405,7 @@ em {
   color: var(--text-title-h5) !important;
   font-weight: 500 !important;
   font-size: var(--font-size-h5) ;
+  padding-top: 24px;
 }
 
 .cm-header-6, .markdown-preview-view h6
@@ -410,6 +414,7 @@ em {
   font-weight: 500 !important;
   font-size: var(--font-size-h6);
   border-top: 1px solid;
+  padding-top: 24px;
 
 }
 /*-------------------------------------------------------*/
