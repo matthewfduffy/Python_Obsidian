@@ -4,22 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "34f1e56a9ef51ff7",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "empty",
-          "state": {},
-          "pinned": true
-        }
-      },
-      {
         "id": "b6b7842ae6bf77cf",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Working/Currying.md",
+            "file": "10__Object Oriented Python/10.0 -- OOP Intro.md",
             "mode": "source"
           }
         }
@@ -94,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Working/Currying.md",
+                "file": "10__Object Oriented Python/10.0 -- OOP Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Working/Currying.md"
+                "file": "10__Object Oriented Python/10.0 -- OOP Intro.md"
               }
             }
           },
@@ -140,6 +130,8 @@
   },
   "active": "b6b7842ae6bf77cf",
   "lastOpenFiles": [
+    "10__Object Oriented Python/10.0 -- OOP Intro.md",
+    "10__Object Oriented Python/10.1 -- Constructing Classes in Python.md",
     "Working/Currying.md",
     "Working/Decorators.md",
     "Working/Tips & Tricks.md",
@@ -147,8 +139,6 @@
     "04__Functions/4.2__Built-in Functions/4.2.2 -- enumerate( ).md",
     "Working/enumerate.md",
     "04__Functions/4.2__Built-in Functions/4.2.1 -- Built in Functions Index.md",
-    "02__Data Structures/02__Data Structures.md",
-    "02__Data Structures/2.4__Dictionaries/2.4.1 -- Dictionaries.md",
-    "07__Error Handling/7.2 -- Try and Except.md"
+    "02__Data Structures/02__Data Structures.md"
   ]
 }

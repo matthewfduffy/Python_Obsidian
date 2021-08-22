@@ -319,7 +319,7 @@ a:hover,
 /* Bold
 ---------------------------------------------------------*/
 strong {
-  background-color: var(--text-mark) !important;
+  /* background-color: var(--text-mark) !important; */
   color: var(--discord-yellow-alt);
   font-weight: 600 !important;
 }
@@ -367,8 +367,7 @@ em {
 {
   color: var(--text-title-h1) !important;
   font-weight: 500 !important;
-  font-size: var(--font-size-h1);
-  border-bottom: 1px solid;
+  font-size: var(--font-size-h1);  
 }
 
 .cm-header-2, .markdown-preview-view h2
@@ -376,6 +375,11 @@ em {
   color: var(--text-title-h2) !important;
   font-weight: 500 !important;
   font-size: var(--font-size-h2);
+}
+
+.markdown-preview-view h1, 
+.markdown-preview-view h2 
+{
   border-bottom: 1px solid;
 }
 
