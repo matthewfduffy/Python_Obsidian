@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01__ Python Language Basics/1.3 -- Variables and Keywords.md",
+            "file": "02__Data Structures/2.4__Dictionaries/2.4.1 -- Dictionaries.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "enum",
+                "query": ".get",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +64,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01__ Python Language Basics/1.3 -- Variables and Keywords.md",
+                "file": "02__Data Structures/2.4__Dictionaries/2.4.1 -- Dictionaries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01__ Python Language Basics/1.3 -- Variables and Keywords.md"
+                "file": "02__Data Structures/2.4__Dictionaries/2.4.1 -- Dictionaries.md"
               }
             }
           },
@@ -130,15 +131,15 @@
   },
   "active": "b6b7842ae6bf77cf",
   "lastOpenFiles": [
+    "02__Data Structures/2.4__Dictionaries/2.4.1 -- Dictionaries.md",
+    "02__Data Structures/2.4__Dictionaries/2.4.2 -- Looping through Dictionaries.md",
+    "02__Data Structures/02__Data Structures.md",
     "01__ Python Language Basics/1.3 -- Variables and Keywords.md",
     "10__Object Oriented Python/10.1 -- Elements of OOP.md",
     "10__Object Oriented Python/10.0 -- OOP Intro.md",
     "10__Object Oriented Python/10.1 -- Elements of an Object.md",
     "10__Object Oriented Python/10.1 -- Constructing Classes in Python.md",
     "10__Object Oriented Python/Untitled 1.md",
-    "10__Object Oriented Python/Untitled.md",
-    "Working/Currying.md",
-    "Working/Decorators.md",
-    "Working/Tips & Tricks.md"
+    "10__Object Oriented Python/Untitled.md"
   ]
 }
