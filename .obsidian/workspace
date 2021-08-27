@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "02__Data Structures/2.4__Dictionaries/2.4.1 -- Dictionaries.md",
+            "file": "02__Data Structures/2.4__Dictionaries/dictionary methods/clear().md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02__Data Structures/2.4__Dictionaries/2.4.1 -- Dictionaries.md",
+                "file": "02__Data Structures/2.4__Dictionaries/dictionary methods/clear().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02__Data Structures/2.4__Dictionaries/2.4.1 -- Dictionaries.md"
+                "file": "02__Data Structures/2.4__Dictionaries/dictionary methods/clear().md"
               }
             }
           },
@@ -130,15 +130,15 @@
   },
   "active": "b6b7842ae6bf77cf",
   "lastOpenFiles": [
-    "02__Data Structures/2.4__Dictionaries/2.4.1 -- Dictionaries.md",
+    "02__Data Structures/2.4__Dictionaries/dictionary methods/clear().md",
+    "02__Data Structures/2.4__Dictionaries/2.4.2 -- Dictionary Methods Index.md",
+    "02__Data Structures/2.4__Dictionaries/dictionary methods/get().md",
+    "02__Data Structures/2.4__Dictionaries/dictionary methods/Untitled.md",
     "02__Data Structures/2.4__Dictionaries/2.4.2 -- Looping through Dictionaries.md",
-    "02__Data Structures/02__Data Structures.md",
-    "01__ Python Language Basics/1.3 -- Variables and Keywords.md",
-    "10__Object Oriented Python/10.1 -- Elements of OOP.md",
-    "10__Object Oriented Python/10.0 -- OOP Intro.md",
-    "10__Object Oriented Python/10.1 -- Elements of an Object.md",
-    "10__Object Oriented Python/10.1 -- Constructing Classes in Python.md",
-    "10__Object Oriented Python/Untitled 1.md",
-    "10__Object Oriented Python/Untitled.md"
+    "Working/Decorators.md",
+    "Working/Untitled.md",
+    "__Master Links.md",
+    "conflict-files-obsidian-git.md",
+    "Untitled.md"
   ]
 }

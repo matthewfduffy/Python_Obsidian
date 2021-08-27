@@ -1,7 +1,7 @@
 #dictionary-method
-## .get()
+## .clear()
 ##### Definition and Usage:
-The `get()` method returns the value of the item with the specified key.
+The `clear()` method returns the value of the item with the specified key.
 
 
 ##### Syntax:
@@ -33,4 +33,4 @@ print(x)
 
 ###### See Also:
 [[2.4.2 -- Dictionary Methods Index]]
-[get()](https://www.w3schools.com/python/ref_dictionary_get.asp)
+[clear()](https://www.w3schools.com/python/ref_dictionary_clear.asp)
