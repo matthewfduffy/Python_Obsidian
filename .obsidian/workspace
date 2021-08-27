@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "02__Data Structures/2.4__Dictionaries/2.4.2 -- Dictionary Methods Index.md",
+            "file": "02__Data Structures/2.4__Dictionaries/dictionary methods/pop().md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02__Data Structures/2.4__Dictionaries/2.4.2 -- Dictionary Methods Index.md",
+                "file": "02__Data Structures/2.4__Dictionaries/dictionary methods/pop().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02__Data Structures/2.4__Dictionaries/2.4.2 -- Dictionary Methods Index.md"
+                "file": "02__Data Structures/2.4__Dictionaries/dictionary methods/pop().md"
               }
             }
           },
@@ -130,15 +130,15 @@
   },
   "active": "b6b7842ae6bf77cf",
   "lastOpenFiles": [
+    "02__Data Structures/2.4__Dictionaries/dictionary methods/pop().md",
     "02__Data Structures/2.4__Dictionaries/2.4.2 -- Dictionary Methods Index.md",
-    "02__Data Structures/2.4__Dictionaries/dictionary methods/items().md",
     "02__Data Structures/2.4__Dictionaries/dictionary methods/get().md",
     "02__Data Structures/2.4__Dictionaries/dictionary methods/Untitled.md",
+    "02__Data Structures/2.4__Dictionaries/dictionary methods/keys().md",
+    "02__Data Structures/2.4__Dictionaries/dictionary methods/items().md",
     "02__Data Structures/2.4__Dictionaries/2.4.2 -- Looping through Dictionaries.md",
     "02__Data Structures/2.4__Dictionaries/dictionary methods/fromkeys().md",
     "02__Data Structures/2.4__Dictionaries/2.4.3 -- List Comprehensions with Dictionaries.md",
-    "02__Data Structures/2.4__Dictionaries/dictionary methods/copy().md",
-    "02__Data Structures/2.4__Dictionaries/dictionary methods/clear().md",
-    "Working/Decorators.md"
+    "02__Data Structures/2.4__Dictionaries/dictionary methods/copy().md"
   ]
 }

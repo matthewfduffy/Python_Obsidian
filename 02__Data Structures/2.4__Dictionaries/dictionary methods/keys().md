@@ -1,12 +1,12 @@
 #dictionary-method
-## .items()
+## .keys()
 ##### Definition and Usage:
-The `items()` method returns a view object. The view object contains the key-value pairs of the dictionary, as tuples in a list.
+The `keys()` method returns a view object. The view object contains the keys of the dictionary, as a list.
 The view object will reflect any changes done to the dictionary.
 
 
 ##### Syntax:
- `dictionary.items()`
+ `dictionary.keys()`
 
 ##### Parameter Values:
 None.
@@ -20,8 +20,8 @@ car = {
   "year": 1964  
 }  
   
-x = car.items()
-car["year"] = 2018
+x = car.keys()
+car["color"] = "white"
 
 print(x)
 ```
@@ -29,4 +29,4 @@ print(x)
 
 ###### See Also:
 [[2.4.2 -- Dictionary Methods Index]]
-[items()](https://www.w3schools.com/python/ref_dictionary_items.asp)
+[keys()](https://www.w3schools.com/python/ref_dictionary_keys.asp)
