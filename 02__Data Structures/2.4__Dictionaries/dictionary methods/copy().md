@@ -1,14 +1,15 @@
 #dictionary-method
-## .clear()
+## .copy()
 ##### Definition and Usage:
-The `clear()` method removes all the elements from a dictionary.
+The `copy()` method returns a copy of the specified dictionary
 
 
 ##### Syntax:
- `dictionary.clear()`
+ `dictionary.copy()`
 
 ##### Parameter Values:
 None.
+
 
 ##### Examples:
 ```py
@@ -18,13 +19,12 @@ car = {
   "year": 1964  
 }  
   
-car.clear()
+x = car.copy()  
+print(x)
 
-print(car)
-# {}
 ```
 
 
 ###### See Also:
 [[2.4.2 -- Dictionary Methods Index]]
-[clear()](https://www.w3schools.com/python/ref_dictionary_clear.asp)
+[copy()](https://www.w3schools.com/python/ref_dictionary_copy.asp)
