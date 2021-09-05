@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "13__Recursion/13.1 -- Recursion - Conceptual.md",
+            "file": "04__Functions/4.4__Name and Name Spaces/Untitled.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ".get",
+                "query": "namespace",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13__Recursion/13.1 -- Recursion - Conceptual.md",
+                "file": "04__Functions/4.4__Name and Name Spaces/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13__Recursion/13.1 -- Recursion - Conceptual.md"
+                "file": "04__Functions/4.4__Name and Name Spaces/Untitled.md"
               }
             }
           },
@@ -130,15 +130,15 @@
   },
   "active": "b6b7842ae6bf77cf",
   "lastOpenFiles": [
+    "04__Functions/4.4__Name and Name Spaces/Untitled.md",
+    "04__Functions/4.4__Name and Name Spaces/4.4.1 -- Names and Namespaces.md",
+    "04__Functions/4.1__User Defined Functions/4.1.2 -- Scope.md",
+    "02__Data Structures/02__Data Structures.md",
     "13__Recursion/13.1 -- Recursion - Conceptual.md",
     "02__Data Structures/2.4__Dictionaries/dictionary methods/pop().md",
     "02__Data Structures/2.4__Dictionaries/2.4.2 -- Dictionary Methods Index.md",
     "02__Data Structures/2.4__Dictionaries/dictionary methods/get().md",
     "02__Data Structures/2.4__Dictionaries/dictionary methods/Untitled.md",
-    "02__Data Structures/2.4__Dictionaries/dictionary methods/keys().md",
-    "02__Data Structures/2.4__Dictionaries/dictionary methods/items().md",
-    "02__Data Structures/2.4__Dictionaries/2.4.2 -- Looping through Dictionaries.md",
-    "02__Data Structures/2.4__Dictionaries/dictionary methods/fromkeys().md",
-    "02__Data Structures/2.4__Dictionaries/2.4.3 -- List Comprehensions with Dictionaries.md"
+    "02__Data Structures/2.4__Dictionaries/dictionary methods/keys().md"
   ]
 }
