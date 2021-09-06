@@ -24,3 +24,5 @@ def how_many(the_list):
 print how_many([5, "trinket"])
 print how_many([1, "king"])
 ```
+
+

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0A__Algorithms/Number of Things Challenge.md",
+            "file": "0A__Algorithms/Abbreviator Challenge.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0A__Algorithms/Number of Things Challenge.md",
+                "file": "0A__Algorithms/Abbreviator Challenge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0A__Algorithms/Number of Things Challenge.md"
+                "file": "0A__Algorithms/Abbreviator Challenge.md"
               }
             }
           },
