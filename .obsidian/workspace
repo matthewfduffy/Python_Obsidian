@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0A__Algorithms/Abbreviator Challenge.md",
+            "file": "04__Functions/4.3__ Anonymous Functions/4.3.1 -- Lambda Functions.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0A__Algorithms/Abbreviator Challenge.md",
+                "file": "04__Functions/4.3__ Anonymous Functions/4.3.1 -- Lambda Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0A__Algorithms/Abbreviator Challenge.md"
+                "file": "04__Functions/4.3__ Anonymous Functions/4.3.1 -- Lambda Functions.md"
               }
             }
           },
@@ -130,6 +130,7 @@
   },
   "active": "b6b7842ae6bf77cf",
   "lastOpenFiles": [
+    "04__Functions/4.3__ Anonymous Functions/4.3.1 -- Lambda Functions.md",
     "0A__Algorithms/Untitled.md",
     "04__Functions/4.4__Name and Name Spaces/Untitled.md",
     "04__Functions/4.4__Name and Name Spaces/4.4.1 -- Names and Namespaces.md",
@@ -138,7 +139,6 @@
     "13__Recursion/13.1 -- Recursion - Conceptual.md",
     "02__Data Structures/2.4__Dictionaries/dictionary methods/pop().md",
     "02__Data Structures/2.4__Dictionaries/2.4.2 -- Dictionary Methods Index.md",
-    "02__Data Structures/2.4__Dictionaries/dictionary methods/get().md",
-    "02__Data Structures/2.4__Dictionaries/dictionary methods/Untitled.md"
+    "02__Data Structures/2.4__Dictionaries/dictionary methods/get().md"
   ]
 }
