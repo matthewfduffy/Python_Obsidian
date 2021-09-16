@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "07__Error Handling/Error.md",
+            "file": "05__Modules and Packages/5.1 -- The Standard Library.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07__Error Handling/Error.md",
+                "file": "05__Modules and Packages/5.1 -- The Standard Library.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07__Error Handling/Error.md"
+                "file": "05__Modules and Packages/5.1 -- The Standard Library.md"
               }
             }
           },
@@ -130,15 +130,15 @@
   },
   "active": "b6b7842ae6bf77cf",
   "lastOpenFiles": [
+    "05__Modules and Packages/5.1 -- The Standard Library.md",
+    "06__Scripting and Files/6.2 -- Reading and Writing to Files.md",
+    "07__Error Handling/7.2 -- Try and Except.md",
+    "07__Error Handling/7.1 -- Errors and Exceptions.md",
+    "06__Scripting and Files/6.1 -- Scripting with Raw Input.md",
+    "Untitled.md",
     "07__Error Handling/Untitled.md",
     "05__Modules and Packages/Untitled.md",
     "05__Modules and Packages/5.2 -- Modules and Packages.md",
-    "04__Functions/4.1__User Defined Functions/4.1.1 -- Functions Basics.md",
-    "04__Functions/4.2__Built-in Functions/4.2.5 -- Filter( ).md",
-    "04__Functions/4.3__ Anonymous Functions/4.3.1 -- Lambda Functions.md",
-    "04__Functions/4.2__Built-in Functions/4.2.4 -- Map( ).md",
-    "0A__Algorithms/Untitled.md",
-    "04__Functions/4.4__Name and Name Spaces/Untitled.md",
-    "04__Functions/4.4__Name and Name Spaces/4.4.1 -- Names and Namespaces.md"
+    "04__Functions/4.1__User Defined Functions/4.1.1 -- Functions Basics.md"
   ]
 }
