@@ -26,5 +26,5 @@ print(x)
 
 
 ###### See Also:
-[[2.4.2 -- Dictionary Methods Index]]
-[copy()](https://www.w3schools.com/python/ref_dictionary_copy.asp)
+- [[2.4.2 -- Dictionary Methods Index]]
+- [copy()](https://www.w3schools.com/python/ref_dictionary_copy.asp)

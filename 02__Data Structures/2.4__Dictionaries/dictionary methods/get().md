@@ -32,5 +32,5 @@ print(x)
 
 
 ###### See Also:
-[[2.4.2 -- Dictionary Methods Index]]
-[get()](https://www.w3schools.com/python/ref_dictionary_get.asp)
+- [[2.4.2 -- Dictionary Methods Index]]
+- [get()](https://www.w3schools.com/python/ref_dictionary_get.asp)

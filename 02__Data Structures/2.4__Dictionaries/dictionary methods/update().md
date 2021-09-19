@@ -31,8 +31,8 @@ print(car)
 
 
 ###### See Also:
-[[2.4.2 -- Dictionary Methods Index]]
-[update()](https://www.w3schools.com/python/ref_dictionary_update.asp)
+- [[2.4.2 -- Dictionary Methods Index]]
+- [update()](https://www.w3schools.com/python/ref_dictionary_update.asp)
 
 
 

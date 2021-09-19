@@ -31,5 +31,5 @@ print(x)
 
 
 ###### See Also:
-[[2.4.2 -- Dictionary Methods Index]]
-[setdefault()](https://www.w3schools.com/python/ref_dictionary_setdefault.asp)
+- [[2.4.2 -- Dictionary Methods Index]]
+- [setdefault()](https://www.w3schools.com/python/ref_dictionary_setdefault.asp)

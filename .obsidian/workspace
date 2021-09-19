@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "02__Data Structures/2.4__Dictionaries/dictionary methods/values().md",
+            "file": "02__Data Structures/2.4__Dictionaries/2.4.1 -- Dictionaries.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02__Data Structures/2.4__Dictionaries/dictionary methods/values().md",
+                "file": "02__Data Structures/2.4__Dictionaries/2.4.1 -- Dictionaries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02__Data Structures/2.4__Dictionaries/dictionary methods/values().md"
+                "file": "02__Data Structures/2.4__Dictionaries/2.4.1 -- Dictionaries.md"
               }
             }
           },
@@ -130,15 +130,15 @@
   },
   "active": "b6b7842ae6bf77cf",
   "lastOpenFiles": [
-    "02__Data Structures/2.4__Dictionaries/dictionary methods/values().md",
-    "02__Data Structures/2.4__Dictionaries/dictionary methods/pop().md",
-    "02__Data Structures/2.4__Dictionaries/dictionary methods/Untitled.md",
-    "02__Data Structures/2.4__Dictionaries/2.4.2 -- Dictionary Methods Index.md",
-    "02__Data Structures/2.4__Dictionaries/dictionary methods/update().md",
-    "02__Data Structures/2.4__Dictionaries/dictionary methods/setdefault().md",
-    "02__Data Structures/2.4__Dictionaries/dictionary methods/popitem().md",
     "02__Data Structures/2.4__Dictionaries/2.4.1 -- Dictionaries.md",
-    "02__Data Structures/universal.md",
-    "01__ Python Language Basics/1.0 -- Python Uses.md"
+    "02__Data Structures/2.4__Dictionaries/dictionary methods/clear().md",
+    "02__Data Structures/2.4__Dictionaries/dictionary methods/copy().md",
+    "02__Data Structures/2.4__Dictionaries/dictionary methods/fromkeys().md",
+    "02__Data Structures/2.4__Dictionaries/dictionary methods/get().md",
+    "02__Data Structures/2.4__Dictionaries/dictionary methods/items().md",
+    "02__Data Structures/2.4__Dictionaries/dictionary methods/keys().md",
+    "02__Data Structures/2.4__Dictionaries/dictionary methods/pop().md",
+    "02__Data Structures/2.4__Dictionaries/dictionary methods/popitem().md",
+    "02__Data Structures/2.4__Dictionaries/dictionary methods/setdefault().md"
   ]
 }
