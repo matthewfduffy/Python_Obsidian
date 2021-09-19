@@ -9,11 +9,11 @@ The specified items can be a dictionary, or an iterable object with key value pa
  `dictionary.update(iterable)`
 
 ##### Parameter Values:
-| Parameter | Description                                           |
-| --------- | ----------------------------------------------------- |
-| iterable  | Required. The keyname of the item you want to remove. |
+| Parameter | Description                                                                                     |
+| --------- | ----------------------------------------------------------------------------------------------- |
+| iterable  | A dictionary or an iterable object with key value pairs that will be inserted to the dictionary | 
 
-> Note: If a default value is not specified, and no item with the specified key is found, an error will be raised.
+
 
 ##### Examples:
 ```py
@@ -23,9 +23,9 @@ car = {
   "year": 1964  
 }  
   
-x = car.update("model")  
+car.update({"color": "White"})  
 
-print(x)
+print(car)
 
 ```
 
