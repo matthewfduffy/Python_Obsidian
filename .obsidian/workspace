@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06__Scripting and Files/6.1 -- Scripting with Raw Input.md",
+            "file": "02__Data Structures/2.4__Dictionaries/dictionary methods/popitem().md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06__Scripting and Files/6.1 -- Scripting with Raw Input.md",
+                "file": "02__Data Structures/2.4__Dictionaries/dictionary methods/popitem().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06__Scripting and Files/6.1 -- Scripting with Raw Input.md"
+                "file": "02__Data Structures/2.4__Dictionaries/dictionary methods/popitem().md"
               }
             }
           },
@@ -130,15 +130,15 @@
   },
   "active": "b6b7842ae6bf77cf",
   "lastOpenFiles": [
-    "06__Scripting and Files/6.1 -- Scripting with Raw Input.md",
-    "02__Data Structures/2.4__Dictionaries/2.4.1 -- Dictionaries.md",
-    "02__Data Structures/2.1__Strings/2.1.4 -- Splitting Strings.md",
+    "02__Data Structures/2.4__Dictionaries/dictionary methods/popitem().md",
     "02__Data Structures/2.4__Dictionaries/2.4.2 -- Dictionary Methods Index.md",
-    "02__Data Structures/02__Data Structures.md",
-    "05__Modules and Packages/Importing Modules.md",
-    "05__Modules and Packages/Third-Party Packages.md",
-    "06__Scripting and Files/6.2 -- Reading and Writing to Files.md",
-    "05__Modules and Packages/Untitled.md",
-    "05__Modules and Packages/5.2 -- Modules and Packages.md"
+    "02__Data Structures/2.4__Dictionaries/dictionary methods/pop().md",
+    "02__Data Structures/2.4__Dictionaries/dictionary methods/Untitled.md",
+    "02__Data Structures/2.4__Dictionaries/2.4.1 -- Dictionaries.md",
+    "02__Data Structures/universal.md",
+    "01__ Python Language Basics/1.0 -- Python Uses.md",
+    "0A__Algorithms/Two Sum.md",
+    "0A__Algorithms/Number of Things Challenge.md",
+    "0A__Algorithms/Abbreviator Challenge.md"
   ]
 }
