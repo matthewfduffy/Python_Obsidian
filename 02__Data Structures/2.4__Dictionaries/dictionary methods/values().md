@@ -29,5 +29,5 @@ print(x)
 
 
 ###### See Also:
-[[2.4.2 -- Dictionary Methods Index]]
-[values()](https://www.w3schools.com/python/ref_dictionary_values.asp)
+- [[2.4.2 -- Dictionary Methods Index]]
+- [values()](https://www.w3schools.com/python/ref_dictionary_values.asp)
