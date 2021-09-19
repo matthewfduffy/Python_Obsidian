@@ -1,20 +1,16 @@
 #dictionary-method
 ## .popitem()
 ##### Definition and Usage:
-The `pop()` method removes the specified item from the dictionary.
-The value of the removed item is the return value of the `pop()` method
+The `popitem()` method removes the item that was last inserted into the dictionary
+The removed item is the return value of the `popitem()` method, as a tuple.
 
+> Prior to v.3.7, the `popitem()` method removes a random item.
 
 ##### Syntax:
- `dictionary.pop(keyname, defaultvalue)`
+ `dictionary.popitem()`
 
 ##### Parameter Values:
-| Parameter    | Description                                                      |
-| ------------ | ---------------------------------------------------------------- |
-| keyname      | Required. The keyname of the item you want to remove.            |
-| defaultvalue | Optional. A value to return if the specified key does not exist. |
-
-> Note: If a default value is not specified, and no item with the specified key is found, an error will be raised.
+None.
 
 ##### Examples:
 ```py
@@ -24,7 +20,7 @@ car = {
   "year": 1964  
 }  
   
-x = car.pop("model")  
+x = car.popitem()  
 
 print(x)
 
