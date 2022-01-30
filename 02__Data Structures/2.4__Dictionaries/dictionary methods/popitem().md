@@ -1,6 +1,6 @@
 #dictionary-method
 ## .popitem()
-##### Definition and Usage:
+
 The `popitem()` method removes the item that was last inserted into the dictionary
 The removed item is the return value of the `popitem()` method, as a tuple.
 
@@ -13,7 +13,7 @@ The removed item is the return value of the `popitem()` method, as a tuple.
 None.
 
 ##### Examples:
-```py
+```python
 car = {  
   "brand": "Ford",  
   "model": "Mustang",  
@@ -28,5 +28,5 @@ print(x)
 
 
 ###### See Also:
-- [[2.4.2 -- Dictionary Methods Index]]
+- [[2.4.0 -- Dictionary Methods Index]]
 - [popitem()](https://www.w3schools.com/python/ref_dictionary_popitem.asp)

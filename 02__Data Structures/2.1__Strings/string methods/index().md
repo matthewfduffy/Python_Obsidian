@@ -18,7 +18,7 @@ The `index()` method is almost the same as the `find()` method, the only differe
 | end       | Optional. Where to end the search. Default is to the end of the string | 
 
 ##### Example(s):
-```py
+```python
 txt = "Hello, welcome to my world."  
   
 x = txt.index("e")  		# searching full text for the first occurrence of 'e'
@@ -31,6 +31,6 @@ print(y)	# => 8
 
 
 ###### See Also:
-- [[2.1.2 -- String Methods Index]]
+- [[2.1.0 -- String Methods Index]]
 - [[find()]]
 - [.index()](https://www.w3schools.com/python/ref_string_index.asp)

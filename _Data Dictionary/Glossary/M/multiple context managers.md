@@ -2,7 +2,7 @@
 A [[context manager]] is a special code construct that allow the simple handling of resources (e.g. - files)
 
 Prior to Python 3.10:
-```py
+```python
 # single context manager construct
 
 with open('output.log', 'rw') as fout:  
@@ -13,7 +13,7 @@ with open('output.log', 'rw') as fout:
 
 Now, with parenthesized context managers, you can use multiple context managers in one `with` block:
 
-```py
+```python
 with (open('output.log', 'w') as fout, open('input.csv') as fin):  
     fout.write(fin.read())
 ```

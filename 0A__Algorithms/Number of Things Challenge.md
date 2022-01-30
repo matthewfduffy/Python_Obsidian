@@ -1,6 +1,6 @@
 https://hourofpython.trinket.io/python-challenges#/string-challenges/number-of-things-challenge
 
-```py
+```python
 # Make a function how_many that, given a list of a number
 # and a thing name, returns a grmmatically correct sentence
 # describing the number of things.

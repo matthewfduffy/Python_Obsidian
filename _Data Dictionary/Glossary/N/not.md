@@ -1,6 +1,5 @@
-#keyword 
+#python-keyword 
 ## not 
-
 Logical Operator (along with [[and]], [[or]])
 
 (x and y) --> both x and y must be True

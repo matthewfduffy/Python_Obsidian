@@ -1,4 +1,4 @@
-## **f-string**
+## f-string
 String literals prefixed with 'f' or 'F' which is short for formatted string literals.
 + Available  vs.3.6 and later
 +

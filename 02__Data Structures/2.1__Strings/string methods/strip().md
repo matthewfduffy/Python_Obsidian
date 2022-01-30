@@ -1,11 +1,13 @@
+#string-method
 ### .strip()
-#string-method 
+
+
 
 ##### Syntax:
 `string.strip(character)`
 
 ##### Example:
-```py
+```python
 
 featuring = "           rob thomas                 "
 print(featuring.strip())
@@ -13,7 +15,7 @@ print(featuring.strip())
 ```
 
 You can also use `.strip()` with a character argument, which will strip that character from either end of the string.
-```py
+```python
 featuring = "!!!rob thomas       !!!!!"
 print(featuring.strip('!'))
 # => 'rob thomas       '
@@ -25,5 +27,5 @@ Notice that now that we’ve included an argument we are no longer stripping whi
 
 
 ###### See Also:
-[[2.1.2 -- String Methods Index]]
+[[2.1.0 -- String Methods Index]]
 [.capitalize()](https://www.w3schools.com/python/ref_string_capitalize.asp)

@@ -1,5 +1,6 @@
+#string-method
 ### .join()
-#string-method 	[[2.1.2 -- String Methods Index]]
+ 	
 
 Syntax: 
 `string.join(iterable)`
@@ -7,7 +8,7 @@ Syntax:
 The `join()` method takes all items in an iterable and joins them into one string.
 A string must be specified as the separator.
 
-```py
+```python
 myDict = {"name": "John", "country": "Norway"}
 mySeparator = "TEST"
 
@@ -21,4 +22,5 @@ print(x)
 
 
 ###### See Also:
+[[2.1.0 -- String Methods Index]]
 [.join()](https://www.w3schools.com/python/ref_string_join.asp)

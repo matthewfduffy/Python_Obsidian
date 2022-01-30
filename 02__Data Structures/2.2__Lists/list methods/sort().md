@@ -13,12 +13,12 @@ The `sort()` method sorts the list in alphabetical-ascending order, by default
 
 
 ##### Examples:
-```py
+```python
 this_list = ["orange", "mango", "kiwi", "pineapple", "banana"]
 this_list.sort()
 print(this_list)     # ['banana', 'kiwi', 'mango', 'orange', 'pineapple']
 ```
 
 ###### See Also:
-[[2.2.2 -- List Methods index]]
+[[2.2.0 -- List Methods index]]
 [.sort()](https://www.w3schools.com/python/ref_list_sort.asp)

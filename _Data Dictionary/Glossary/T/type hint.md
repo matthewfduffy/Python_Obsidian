@@ -5,5 +5,6 @@ Type hints are optional and are not enforced by Python, but they are useful to s
 
 Type hints of global variables, class attributes, and functions (but non local variables) can be accessed using `typing.get_type_hints()`
 
-See Also: [[function annotation]]
+See Also: 
+- [[function annotation]]
 #PEP-484

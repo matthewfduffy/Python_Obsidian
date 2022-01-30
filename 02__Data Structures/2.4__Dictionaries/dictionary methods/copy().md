@@ -1,6 +1,5 @@
 #dictionary-method
 ## .copy()
-##### Definition and Usage:
 The `copy()` method returns a copy of the specified dictionary
 
 
@@ -12,7 +11,7 @@ None.
 
 
 ##### Examples:
-```py
+```python
 car = {  
   "brand": "Ford",  
   "model": "Mustang",  
@@ -26,5 +25,5 @@ print(x)
 
 
 ###### See Also:
-- [[2.4.2 -- Dictionary Methods Index]]
+- [[2.4.0 -- Dictionary Methods Index]]
 - [copy()](https://www.w3schools.com/python/ref_dictionary_copy.asp)

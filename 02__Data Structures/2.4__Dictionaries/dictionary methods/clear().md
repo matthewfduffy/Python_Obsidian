@@ -26,5 +26,5 @@ print(car)
 
 
 ###### See Also:
-- [[2.4.2 -- Dictionary Methods Index]]
+- [[2.4.0 -- Dictionary Methods Index]]
 - [clear()](https://www.w3schools.com/python/ref_dictionary_clear.asp)

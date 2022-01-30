@@ -1,7 +1,7 @@
-#keyword 
+#python-keyword 
 ## while
-
-```py
+Used to instantiate a while-loop.
+```python
 j = 0
 while j < 3:
 	print(j)

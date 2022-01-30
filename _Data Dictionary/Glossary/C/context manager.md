@@ -1,4 +1,4 @@
-## **context manager**
+## context manager
 *special code constructs that allow the simple handling of resources (e.g. - files)*
 
 An object which controls the environment seen in a [[with]] statement by defining `__enter__()` and `__exit__()` methods.

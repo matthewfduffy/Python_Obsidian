@@ -10,7 +10,7 @@ None
 
 
 ##### Examples:
-```py
+```python
 fruits = ['apple', 'banana', 'cherry']  
   
 fruits.reverse()
@@ -19,6 +19,6 @@ print(fruits)
 ```
 
 ###### See Also:
-[[2.2.2 -- List Methods index]]
+[[2.2.0 -- List Methods index]]
 [.reverse()](https://www.w3schools.com/python/ref_list_reverse.asp)
 #built-in-function  `reversed()` returns a reversed iterator object.

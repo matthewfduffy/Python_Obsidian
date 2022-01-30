@@ -12,7 +12,7 @@ Returns the number of elements with the specified value.
 
 
 ##### Examples:
-```py
+```python
 points = [1, 4, 2, 9, 7, 8, 9, 3, 1]  
   
 x = points.count(9)
@@ -20,5 +20,5 @@ print(x)	# 2
 ```
 
 ###### See Also:
-[[2.2.2 -- List Methods index]]
+[[2.2.0 -- List Methods index]]
 [.count()](https://www.w3schools.com/python/ref_list_count.asp)

@@ -1,8 +1,10 @@
 [
+  "calendar",
+  "obsidian-kanban",
   "table-editor-obsidian",
-  "obsidian-icons-plugin",
+  "obsidian-git",
   "obsidian-reading-time",
-  "cm-editor-syntax-highlight-obsidian",
-  "folder-note-plugin",
-  "obsidian-git"
+  "obsidian-icons-plugin",
+  "find-unlinked-files",
+  "cm-editor-syntax-highlight-obsidian"
 ]

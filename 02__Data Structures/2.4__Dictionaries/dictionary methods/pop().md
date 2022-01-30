@@ -1,6 +1,5 @@
 #dictionary-method
 ## .pop()
-##### Definition and Usage:
 The `pop()` method removes the specified item from the dictionary.
 The value of the removed item is the return value of the `pop()` method
 
@@ -17,7 +16,7 @@ The value of the removed item is the return value of the `pop()` method
 > Note: If a default value is not specified, and no item with the specified key is found, an error will be raised.
 
 ##### Examples:
-```py
+```python
 car = {  
   "brand": "Ford",  
   "model": "Mustang",  
@@ -32,5 +31,5 @@ print(x)
 
 
 ###### See Also:
-- [[2.4.2 -- Dictionary Methods Index]]
+- [[2.4.0 -- Dictionary Methods Index]]
 - [pop()](https://www.w3schools.com/python/ref_dictionary_pop.asp)

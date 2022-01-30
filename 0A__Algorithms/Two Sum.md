@@ -24,13 +24,13 @@ Example 3:
 -   `-109 <= target <= 109`
 -   **Only one valid answer exists.**
 
-```py
+```python
 # base
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
 ```
 
-```py
+```python
 # solution
 
 class Solution:

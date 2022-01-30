@@ -1,4 +1,4 @@
-#### docstring
+## docstring
 A string literal which appears as the first expression in a [[_Data Dictionary/Glossary/C/class]], [[function]] or [[module]] that describes what a program is trying to accomplish.
 Denoted by `""" """` block.
 

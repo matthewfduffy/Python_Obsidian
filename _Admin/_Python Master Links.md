@@ -26,7 +26,7 @@
 + [[or]]
 + [[pass]]
 + [[raise]]
-+ [[return]]]
++ [[CODING/• PYTHON/_Data Dictionary/Glossary/R/return]]]
 + [[True]]
 + [[try]]
 + [[while]]

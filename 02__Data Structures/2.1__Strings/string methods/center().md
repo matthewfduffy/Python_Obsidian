@@ -12,7 +12,7 @@ The `center()` method will center align the string, using a specified character 
 | character | Optional. The character to fill the missing space on each side. <br> default is " " | 
 
 ##### Example(s):
-```py
+```python
 txt = "banana"  
   
 x = txt.center(20)  
@@ -22,5 +22,5 @@ print(x)
 
 
 See Also:
-[[2.1.2 -- String Methods Index]]
+[[2.1.0 -- String Methods Index]]
 [.center()](https://www.w3schools.com/python/ref_string_center.asp)

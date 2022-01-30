@@ -1,5 +1,5 @@
-### .partition()
 #string-method 
+### .partition()
 
 ##### Definition and Usage:
 The `partition()` method searches for a specified string, and splits the string into a tuple containing three elements.
@@ -18,7 +18,7 @@ The `partition()` method searches for a specified string, and splits the string 
 
 
 ##### Examples:
-```py
+```python
 
 txt = "I could eat bananas all day"
 
@@ -35,5 +35,5 @@ If the specified value ==is not found==, the partition() method returns a tuple 
 
 
 ###### See Also:
-[[2.1.2 -- String Methods Index]]
+[[2.1.0 -- String Methods Index]]
 [.partition()](https://www.w3schools.com/python/ref_string_partition.asp)

@@ -1,6 +1,5 @@
-### .split()
 #string-method 
-
+### .split()
 The `split()` method splits a string into a list.
 You can specify the separator, default separator is any whitespace.
 
@@ -14,7 +13,7 @@ Parameter Values:
 | maxsplit  | Optional. Specifies how many splits to do. Default value is -1, which is "all occurrences"                      | 
 
 
-```py
+```python
 txt = "hello, my name is Peter, I am 26 years old"  
   
 x = txt.split(", ")  
@@ -24,11 +23,11 @@ print(x)
 
 See Also:
 [[advanced splitting]]
-[[2.1.2 -- String Methods Index]]
+[[2.1.0 -- String Methods Index]]
 [.split()](https://www.w3schools.com/python/ref_string_split.asp)
 
 
-```py
+```python
 print("I Love Python".spint())
 -------------------------------
 ['I', 'Love', 'Python']

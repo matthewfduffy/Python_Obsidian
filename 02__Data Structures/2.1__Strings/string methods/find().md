@@ -19,7 +19,7 @@ The only difference is that the `index()` method raises an exception if the valu
 | end       | Optional. Where to end the search. <br> Default is to the end of string. | 
 
 ##### Example(s):
-```py
+```python
 print('smooth'.find('t'))
 # => '4'
 ```
@@ -27,7 +27,7 @@ print('smooth'.find('t'))
 We searched the string `'smooth'` for the string `'t'` and found that it was at the fourth index spot, so `.find()` returned `4`.
 
 You can also search for larger strings, and `.find()` will return the index value of the first character of that string.
-```py
+```python
 print("smooth".find('oo'))
 # => '2'
 ```
@@ -35,6 +35,6 @@ print("smooth".find('oo'))
 Notice here that 2 is the index of the first `o`.
 
 
-[[2.1.2 -- String Methods Index]]
+[[2.1.0 -- String Methods Index]]
 [[02__Data Structures/2.1__Strings/string methods/index()]]
 [.find()]((https://www.w3schools.com/python/ref_string_find.asp))

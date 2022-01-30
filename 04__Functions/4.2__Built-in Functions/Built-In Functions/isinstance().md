@@ -8,7 +8,7 @@ You can use the `isinstance()` function to check if an object is an instance of 
 ##### Use:
 Use when performing object-type comparisons.
 
-```py
+```python
 numbers = [1, 2, 3]
 
 isinstance(numbers, list)	# True

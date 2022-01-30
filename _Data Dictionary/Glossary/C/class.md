@@ -1,7 +1,8 @@
-## **class**
+#python-keyword 
+## class
 A template for creating user-defined objects. Class definitions normally contain [[method]] definitions which operate on instances of the class.
 
-```py
+```python
 class Beer:
 	def __init__(self):
 		self.content = 1.0

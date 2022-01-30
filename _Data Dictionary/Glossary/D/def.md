@@ -1,4 +1,4 @@
-#keyword 
+#python-keyword 
 ## def
 Defines a new function or class method.
 First parameter ("self") points to the class object.

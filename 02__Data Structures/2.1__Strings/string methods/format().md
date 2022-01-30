@@ -23,14 +23,14 @@ The `format()` method returns the formatted string. <br>
 <br>
 
 ##### Example(s):
-```py
+```python
 txt1 = "My name is {fname}, I'm {age}".format(fname = "John", age = 36)  
 txt2 = "My name is {0}, I'm {1}".format("John",36)  
 txt3 = "My name is {}, I'm {}".format("John",36)
 ```
 
 
-```py
+```python
 def favorite_song_statement(song, artist):
 	return "My favorite song is {} by {}.".format(song, artist)
 
@@ -54,5 +54,5 @@ Inside the placeholders you can add a formatting type to format the result:
 
 ##### See Also:
 [[2.1.3 -- String Formatting]]
-[[2.1.2 -- String Methods Index]]
+[[2.1.0 -- String Methods Index]]
 [.format()](https://www.w3schools.com/python/ref_string_format.asp)

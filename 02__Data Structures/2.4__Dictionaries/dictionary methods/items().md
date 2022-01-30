@@ -1,16 +1,15 @@
 #dictionary-method
 ## .items()
-##### Definition and Usage:
-The `items()` method returns a view object. The view object contains the key-value pairs of the dictionary, as tuples in a list.
-The view object will reflect any changes done to the dictionary.
 
+The `items()` method returns a view object. The view object contains the key-value pairs of the dictionary, as tuples in a list.
+
+The view object will reflect any changes done to the dictionary.
 
 ##### Syntax:
  `dictionary.items()`
 
 ##### Parameter Values:
 None.
-
 
 ##### Examples:
 ```py
@@ -28,5 +27,5 @@ print(x)
 
 
 ###### See Also:
-- [[2.4.2 -- Dictionary Methods Index]]
+- [[2.4.0 -- Dictionary Methods Index]]
 - [items()](https://www.w3schools.com/python/ref_dictionary_items.asp)

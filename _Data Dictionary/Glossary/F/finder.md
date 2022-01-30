@@ -1,4 +1,4 @@
-## **finder**
+## finder
 An [[object]] that tries to find the [[loader]] for a [[module]] that is being imported.
 
 Since Python 3.3, there are two types of finders:

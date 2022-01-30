@@ -1,9 +1,11 @@
 #flask-snippet
 `route`
 
-```py
+```python
 @app.route('/route_name')
 def method_name():
 	pass
 
 ```
+
+[[VS-Code-Python-Snippets]]

@@ -1,6 +1,5 @@
 #dictionary-method
 ## .values()
-##### Definition and Usage:
 The `values()` method returns a view object. The view object contains the values of the dictionary as a list.
 The view object will reflect any changes done to the dictionary.
 
@@ -12,7 +11,7 @@ The view object will reflect any changes done to the dictionary.
 None.
 
 ##### Examples:
-```py
+```python
 car = {  
   "brand": "Ford",  
   "model": "Mustang",  
@@ -29,5 +28,5 @@ print(x)
 
 
 ###### See Also:
-- [[2.4.2 -- Dictionary Methods Index]]
+- [[2.4.0 -- Dictionary Methods Index]]
 - [values()](https://www.w3schools.com/python/ref_dictionary_values.asp)

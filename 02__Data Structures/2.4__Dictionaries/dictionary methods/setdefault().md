@@ -1,6 +1,5 @@
 #dictionary-method
 ## .setdefault()
-##### Definition and Usage:
 The `setdefault()` method returns the value of the item with the specified key.
 If the key does not exist, insert the key, with the specified vlaue.
 
@@ -16,7 +15,7 @@ If the key does not exist, insert the key, with the specified vlaue.
 
 
 ##### Examples:
-```py
+```python
 car = {  
   "brand": "Ford",  
   "model": "Mustang",  
@@ -31,5 +30,5 @@ print(x)
 
 
 ###### See Also:
-- [[2.4.2 -- Dictionary Methods Index]]
+- [[2.4.0 -- Dictionary Methods Index]]
 - [setdefault()](https://www.w3schools.com/python/ref_dictionary_setdefault.asp)

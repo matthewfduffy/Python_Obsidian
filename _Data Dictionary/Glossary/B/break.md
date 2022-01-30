@@ -1,8 +1,8 @@
-#keyword 
-## **break**
+#python-keyword 
+## break
 Ends *While loop* prematurely
 
-```py
+```python
 while True:
 	print('Please type your name.')
 	name = input()

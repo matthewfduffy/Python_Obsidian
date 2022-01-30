@@ -1,4 +1,4 @@
-## **hashable**
+## hashable
 An [[object]] is hashable if it has:
 + a hash value which never changes during its lifetime --> it needs a `__hash__()` method
 + can be compared to other objects --> it needs an `__eq__()` method

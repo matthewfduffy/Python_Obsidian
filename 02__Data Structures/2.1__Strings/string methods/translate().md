@@ -1,5 +1,6 @@
-### .translate()
 #string-method 
+### .translate()
+
 
 ##### Definition and Usage:
 The `translate()` method returns a string where some specified characters are replaced with the character described in a dictionary, or in a mapping table.
@@ -20,7 +21,7 @@ If you use a dictionary, you must use ascii codes instead of characters.
 
 
 ##### Examples:
-```py
+```python
 # Use a mapping table to replace "S" with "P":
 txt = "Hello Sam!"
 mytable = txt.maketrans("S", "P")
@@ -47,5 +48,5 @@ print(txt.translate(mytable))		# G i Joe!
 ```
 
 ###### See Also:
-[[2.1.2 -- String Methods Index]]
+[[2.1.0 -- String Methods Index]]
 [.translate()](https://www.w3schools.com/python/ref_string_translate.asp)

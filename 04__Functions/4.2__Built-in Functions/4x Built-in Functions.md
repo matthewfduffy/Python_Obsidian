@@ -2,7 +2,7 @@
 ###### *Everything in Python is an object and we can inspect an object by using the built-in function `dir()`*
 ---
 ### Max and Min:
-```py
+```python
 #max and min
 
 print(max([1,4,7,12,100]))
@@ -18,7 +18,7 @@ _italic_
 https://medium.com/analytics-vidhya/the-art-of-one-lining-in-python-1b96fc6fc5a9
 
 Join (method):
-```py
+```python
 mylist = ['a', 'b', 'c', 'd']
 #goal to return 'abcd'
 
@@ -31,7 +31,7 @@ print('--'.join(mylist))
 ```
 
 Optimizing (Boolean) Functions:
-```py
+```python
 """
 Given a string and a target sub-string, 
 write a program that determines whether the target sub-string is contained with in the string.

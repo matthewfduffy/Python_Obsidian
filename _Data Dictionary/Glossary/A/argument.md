@@ -1,4 +1,4 @@
-## **argument** 
+## argument 
 a value passed as inputs to a [[function]] (or [[method]]) when calling the function. There are two kinds of arguments:
 + [[argument, keyword]]
 + [[argument, positional]]

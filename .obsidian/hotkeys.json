@@ -1,4 +1,38 @@
 {
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "workspace:export-pdf": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "p"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "\\"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "|"
+    }
+  ],
   "theme:use-dark": [
     {
       "modifiers": [
@@ -17,15 +51,6 @@
       "key": "L"
     }
   ],
-  "editor:swap-line-down": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "ArrowDown"
-    }
-  ],
   "editor:swap-line-up": [
     {
       "modifiers": [
@@ -35,13 +60,30 @@
       "key": "ArrowUp"
     }
   ],
-  "open-with-default-app:show": [
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "workspace:close-others": [
     {
       "modifiers": [
         "Mod",
         "Shift"
       ],
-      "key": "."
+      "key": "W"
+    }
+  ],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "="
     }
   ],
   "graph:open-local": [
@@ -49,7 +91,7 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "G"
+      "key": "g"
     }
   ],
   "graph:open": [
@@ -61,11 +103,10 @@
       "key": "G"
     }
   ],
-  "command-palette:open": [
+  "workspace:toggle-pin": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Mod"
       ],
       "key": "P"
     }
@@ -78,90 +119,47 @@
       "key": "O"
     }
   ],
-  "editor:insert-link": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "K"
-    }
-  ],
-  "workspaces:load": [
+  "daily-notes": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "L"
+      "key": "T"
+    }
+  ],
+  "daily-notes:goto-prev": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad0"
+    }
+  ],
+  "daily-notes:goto-next": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Numpad1"
     }
   ],
   "workspaces:open-modal": [
     {
       "modifiers": [
+        "Alt",
         "Mod"
       ],
       "key": "M"
     }
   ],
-  "workspace:export-pdf": [
+  "file-explorer:reveal-active-file": [
     {
       "modifiers": [
         "Alt"
       ],
-      "key": "P"
+      "key": "S"
     }
   ],
-  "editor:toggle-highlight": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "="
-    }
-  ],
-  "app:toggle-left-sidebar": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "\\"
-    }
-  ],
-  "app:toggle-right-sidebar": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "\\"
-    }
-  ],
-  "app:go-back": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "ArrowLeft"
-    }
-  ],
-  "app:go-forward": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "ArrowRight"
-    }
-  ],
-  "table-editor-obsidian:delete-column": [],
-  "workspace:close-others": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "W"
-    }
-  ],
-  "app:delete-file": [],
   "editor:focus-left": [
     {
       "modifiers": [
@@ -178,13 +176,48 @@
       "key": "]"
     }
   ],
-  "outline:open": [
+  "open-with-default-app:show": [
     {
       "modifiers": [
         "Mod",
         "Shift"
       ],
-      "key": "H"
+      "key": "."
+    }
+  ],
+  "editor:toggle-strikethrough": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Numpad5"
+    }
+  ],
+  "table-editor-obsidian:insert-row": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "I"
+    }
+  ],
+  "table-editor-obsidian:move-row-down": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "table-editor-obsidian:move-row-up": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowUp"
     }
   ],
   "obsidian-icons-plugin:open-icons-plugin-modal": [
@@ -195,71 +228,31 @@
       "key": "I"
     }
   ],
-  "table-editor-obsidian:move-row-down": [
+  "app:reload": [
     {
       "modifiers": [
-        "Mod"
+        "Alt",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ],
+  "editor:unfold-all": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
       ],
       "key": "ArrowDown"
     }
   ],
-  "table-editor-obsidian:move-row-up": [
+  "editor:fold-all": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "ArrowUp"
-    }
-  ],
-  "table-editor-obsidian:sort-rows-ascending": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "A"
-    }
-  ],
-  "table-editor-obsidian:sort-rows-descending": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "D"
-    }
-  ],
-  "table-editor-obsidian:delete-row": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "D"
-    }
-  ],
-  "workspace:toggle-pin": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "P"
-    }
-  ],
-  "table-editor-obsidian:insert-column": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "C"
-    }
-  ],
-  "table-editor-obsidian:insert-row": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "R"
     }
   ]
 }

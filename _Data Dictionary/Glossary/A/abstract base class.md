@@ -1,4 +1,4 @@
-## **abstract base class**
+## abstract base class
 *short term: ABCs*
 Complements [[duck-typing]] by providing a way to define interfaces when other techniques like `hasattr()` would be clumsy or subtly wrong (e.g. - [[magic method]]s).
 

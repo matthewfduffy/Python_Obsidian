@@ -1,9 +1,9 @@
-#keyword 
+#python-keyword  
 ## continue
 Finishes current loop iteration
 
 ex. 
-```py
+```python
 num = 0
 while num <= 5:
 	if num == 3:

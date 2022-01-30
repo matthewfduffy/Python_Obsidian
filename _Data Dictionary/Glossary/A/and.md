@@ -1,6 +1,5 @@
-#keyword
-## **and** 
-
+#python-keyword 
+## and
 Logical Operator (along with [[or]], [[not]])
 
 (x and y) --> both x and y must be True

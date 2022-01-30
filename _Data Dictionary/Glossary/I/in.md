@@ -1,8 +1,8 @@
-#keyword 
+#python-keyword 
 ## in
 Checks whether element is in sequence.
 
-```py
+```python
 42 in [2, 39, 42]	# True
 ```
 

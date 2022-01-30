@@ -1,8 +1,8 @@
-#keyword 
+#python-keyword 
 ## is
 Checks whether both elements point to the same object.
 
-```py
+```python
 y = x = 3
 x is y # True
 [3] is [3] # False

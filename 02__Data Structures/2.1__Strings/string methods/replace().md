@@ -1,6 +1,5 @@
-### .replace()
 #string-method 
-
+### .replace()
 Replace takes two arguments and replaces all instances of the first argument in a string with the second argument.
 
 ##### Syntax:
@@ -16,7 +15,7 @@ Replace takes two arguments and replaces all instances of the first argument in 
 > Note: All occurrences of the specified phrase will be replaced, if nothing else is specified.
 
 ##### Basic Example:
-```py
+```python
 txt = "I like bananas"
 
 x = txt.repalce("bananas", "apples")
@@ -26,7 +25,7 @@ print(x)
 ```
 
 ##### Intermediate Example:
-```py
+```python
 with_spaces = "You got the kind of loving that can be so smooth"
 
 with_underscores = with_spaces.replace(' ', '_')
@@ -36,5 +35,5 @@ print(with_underscores)
 ```
 
 
-[[2.1.2 -- String Methods Index]]
+[[2.1.0 -- String Methods Index]]
 [.replace()](https://www.w3schools.com/python/ref_string_replace.asp)

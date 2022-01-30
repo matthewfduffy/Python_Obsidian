@@ -1,4 +1,4 @@
-## **function annotation**
+## function annotation
 An annotation of a [[function]] parameter or return value.
 
 Function annotations are usually used for [[type hint]]s.
@@ -9,5 +9,6 @@ def sum_two_numbers(a: int, b: int) -> int:
 	return a + b
 ```
 
-See Also: [[variable annotation]]
+See Also: 
+- [[variable annotation]]
 #PEP-484

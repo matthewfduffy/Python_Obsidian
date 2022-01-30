@@ -1,14 +1,14 @@
 ## Ternary Operators
 Ternary Operators are your classic `if-then-else` statements, but expressed in a single line. For example:
 
-```py
+```python
 if 10 % 2 == 0:
 	print('Even!')
 else:
 	print('Odd!')
 ```
 Can be shortened/translated to:
-```py
+```python
 print("Even!" if 10 % 2 == 0 else "Odd"!)
 ```
 

@@ -1,4 +1,4 @@
-## **immutable**
+## immutable
 An object with a fixed value.
 Immutable objects include numbers, strings, and tuples.
 Such an object cannot be altered.

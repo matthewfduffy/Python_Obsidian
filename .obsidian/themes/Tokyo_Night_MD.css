@@ -177,10 +177,12 @@
   --background-primary-alt: #222436;
   --background-secondary: #1e2030;
   --background-secondary-alt: #1e2030;
+  --background-secondary2: #44475a;
   --background-tag: #131421;
   --background-quick: #191a2a;
   --background-modifier-cover: rgba(0, 0, 0, 0.8);
   --background-modifier-border: #1e2030;
+  --background-modifier-border2: #f8f8f2;
   --background-modifier-form-field: #191a2a;
   --background-modifier-form-field-highlighted: #1e2030;
   --interactive-hover: #2f334d;
@@ -329,13 +331,20 @@
 .cm-s-obsidian .cm-header-2,
 .cm-s-obsidian .cm-header-3,
 .cm-s-obsidian .cm-header-4,
-.cm-s-obsidian .cm-header-5,
-.cm-s-obsidian .cm-header-6 {
+.cm-s-obsidian .cm-header-5 {
   font-size: var(--font-header-size);
   line-height: 1.5em;
   margin-top: 24px;
   margin-bottom: 16px;
 }
+.cm-s-obsidian .cm-header-6 {
+  color: var(--accent-color);
+  font-size: 16px;
+  line-height: 1.5em;
+  margin-top: 24px;
+  margin-bottom: 16px;
+}
+
 .cm-s-obsidian .cm-formatting-link,
 .cm-s-obsidian .cm-link {
   color: var(--accent-color) !important;
@@ -420,7 +429,7 @@
 /* Comments %% %%
 ---------------------------------------------------------*/
 .cm-comment{
-  color:#be60699e !important; 
+  color:hsla(62, 31% 61%, 1) !important; 
   font-size: var(--text-title-h6);
   font-style: oblique !important;
 }
@@ -647,14 +656,15 @@
 .markdown-preview-view a:hover {
   text-decoration: underline;
 }
-.markdown-preview-view a.external-link {
+/* External Link Icon in Preview */
+/* .markdown-preview-view a.external-link {
   background-image: none;
   background-size: 0px;
   padding-right: 0px;
-}
+} */
 .markdown-preview-view a.internal-link {
   text-decoration: none;
-  color: var(--green-accent);
+  color: var(--accent-color);
 }
 .markdown-preview-view a.internal-link:hover {
   text-decoration: underline;
@@ -872,8 +882,19 @@ path.relation {
   background-color: #2f334d;
 }
 
-.markdown-preview-view table {
-  border: 3px solid #444a73;
+/***************************************/
+/*             table                   */
+/***************************************/
+th {
+  font-weight: 800 !important;
+}
+.markdown-preview-view th {
+  /* border: 3px solid #444a73; */
+  font-weight: 800;
+  background-color: var(--background-secondary2) !important;
+}
+thead {
+  border-bottom: 3px solid var(--background-modifier-border2);
 }
 .markdown-preview-view thead {
   border-bottom: 3px solid #444a73;
@@ -890,10 +911,21 @@ path.relation {
   border-right: 1px solid #2f334d;
 }
 
+.table {
+  padding: 4px;
+  line-height: normal;
+  display: block;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+}
+
 .tag {
   font-size: var(--font-tag-preview-size);
   font-weight: 900;
-  background-color: #131421;
+  /* background-color: #131421; */
+  background-color: var(--discord-grey-toggle);
   padding: 3px 5px;
   border-radius: 5px;
   letter-spacing: -0.05ch;
@@ -1065,25 +1097,24 @@ body.plugin-sliding-panes .mod-root .workspace-leaf.mod-active .view-header {
   color: #828bb8;
 }
 
-.mod-root > .nav-folder-title {
-  display: none;
+/* .mod-root > .nav-folder-title { */
+  /* display: none; */
 }
 /* Active File Highlight
 ---------------------------------------------------------*/
 .nav-file-title.is-active {
   /* background-color: #444a73; */
-  background-color:var(--text-selection-active);
+  background-color:var(--discord-blue-hover);
 }
 /* Active Line Highlight
 ---------------------------------------------------------*/
 .CodeMirror-activeline .CodeMirror-linebackground{
-  /* background-color: var(--text-selection) !important; */
-  background-color: #7a88cf !important;
-  /* color: greenyellow !important; */
+  background-color: hsla(242, 60%, 75%,0.30) !important;
 }
 /* Text Color of Active Line */
 .CodeMirror-activeline {
   color: greenyellow !important;
+  font-weight: 700;
 }
 /*-------------------------------------------------------*/
 body:not(.is-grabbing) .nav-file-title:hover,

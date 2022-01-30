@@ -22,5 +22,5 @@ print(fruits)
 ```
 
 ###### See Also:
-[[2.2.2 -- List Methods index]]
+[[2.2.0 -- List Methods index]]
 [.insert](https://www.w3schools.com/python/ref_list_insert.asp)

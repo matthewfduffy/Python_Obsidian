@@ -1,4 +1,4 @@
-## **Generators** 
+## Generators
 A function which returns a generator [[iterator]]. It looks like a normal function except that it contains [[yield]] expressions for producing a series of values usable in a *for loop* or that can be retrieved one at a time with the `next()` function. 
 
 You can also define [[iterator]]s using [[_Data Dictionary/Glossary/C/class]]es*.

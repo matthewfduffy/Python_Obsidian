@@ -1,6 +1,8 @@
-#keyword 
+#python-keyword 
 ## for
-```py
+Instantiate a for-loop.
+
+```python
 for i in [0, 1, 2]:
 	print(i)
 ```

@@ -1,6 +1,6 @@
 {
-  "cssTheme": "Obsidian_Nord_MD",
   "theme": "obsidian",
-  "translucency": false,
-  "baseFontSize": 19
+  "baseFontSize": 21,
+  "cssTheme": "Everforest_MD",
+  "translucency": false
 }

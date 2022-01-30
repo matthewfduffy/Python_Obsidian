@@ -1,4 +1,4 @@
-##  **iterator** 
+##  iterator
 An object that represents a stream of data. This is different from a *list*, which is also an [[iterable]], but is not an iterator because it is not a stream of data.
 
 a [[generator]] iterator is an object created by a generator function.

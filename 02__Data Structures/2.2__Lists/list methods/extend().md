@@ -22,5 +22,5 @@ fruits.extend(cars)
 ```
 
 ###### See Also:
-[[2.2.2 -- List Methods index]]
+[[2.2.0 -- List Methods index]]
 [.extend()](https://www.w3schools.com/python/ref_list_extend.asp)

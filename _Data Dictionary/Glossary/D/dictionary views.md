@@ -1,4 +1,4 @@
-## **dictionary views**
+## dictionary views
 The objects returned from `dict.keys()`, `dict.values()`, and `dict.items()` are called *dictionary views*.
 
 They provide a dynamic view on the [[dictionary]]'s entries, whcih means that when the dictionary changes, the view reflects these changes.

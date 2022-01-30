@@ -1,1 +1,59 @@
-{"items":[{"type":"file","title":"factory method","path":"__Data Dictionary/Design Patterns/factory method.md"},{"type":"file","title":"Everspring Interview","path":"Interview/Everspring Interview.md"},{"type":"file","title":"Learning Resources","path":"_Admin/Learning Resources.md"}]}
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "→ Training Master Links",
+      "path": "→ Training Master Links.md"
+    },
+    {
+      "type": "file",
+      "title": "How the Internet Works",
+      "path": "» Tech-Supporting/How the Internet Works.md"
+    },
+    {
+      "type": "file",
+      "title": "☼ AWS CCP Readiness",
+      "path": "CLOUD_COMPUTING/AWS/☼ AWS Cheat Sheet.md"
+    },
+    {
+      "type": "file",
+      "title": "☼ MASTER RESOURCE LIST",
+      "path": "☼ MASTER RESOURCE LIST.md"
+    },
+    {
+      "type": "file",
+      "title": "→ Scalability Master Links",
+      "path": "SYSTEMS_DESIGN/→ Scalability Master Links.md"
+    },
+    {
+      "type": "file",
+      "title": "Multi-Language Syntax Cheatsheet",
+      "path": "CODING/_Multi-Language Cheat Sheet/Multi-Language Syntax Cheatsheet.md"
+    },
+    {
+      "type": "file",
+      "title": "11.2 -- Virtual Environment Cheat Sheet",
+      "path": "CODING/• PYTHON/11__Web Development/11.1__Virtual Environments/11.2 -- Virtual Environment Cheat Sheet.md"
+    },
+    {
+      "type": "file",
+      "title": "4.3.1 -- Underscores in Python",
+      "path": "CODING/• PYTHON/04__Functions/4.3__Underscores in Python/4.3.1 -- Underscores in Python.md"
+    },
+    {
+      "type": "file",
+      "title": "Git Commands",
+      "path": "__Cheat_Sheets/Git Commands.md"
+    },
+    {
+      "type": "file",
+      "title": "Exam Prep -- Encryption",
+      "path": "CLOUD_COMPUTING/AWS/Solution Architect Training/Exam Prep/Exam Prep -- Encryption.md"
+    },
+    {
+      "type": "file",
+      "title": "Deep Dive - Management",
+      "path": "CLOUD_COMPUTING/AWS/Solution Architect Training/Deep Dives/Deep Dive - Management.md"
+    }
+  ]
+}
